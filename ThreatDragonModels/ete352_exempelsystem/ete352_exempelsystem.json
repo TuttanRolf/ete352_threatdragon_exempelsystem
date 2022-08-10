@@ -1,7 +1,8 @@
 {
   "summary": {
     "title": "ete352_exempelsystem",
-    "owner": "Marie-Christine Rudbäck"
+    "owner": "Marie-Christine Rudbäck",
+    "description": "Systemet \"Ritningshantering Sjukhus\" är en ecomiljö som hanterar ritningar över sjukhusens alla byggnader, lokaler, mediainstallationer samt driftsinformation- och instruktioner för desamma. Informationen gällande sjukhusens alla installationer för drift av sjukhusbyggnaden är känslig informationstillgång och därför får inte informationstillgången spridas med risk att hamna i fel händer och nyttjas för att hota och skada."
   },
   "detail": {
     "contributors": [
