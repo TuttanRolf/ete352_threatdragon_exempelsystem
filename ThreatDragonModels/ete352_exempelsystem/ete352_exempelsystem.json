@@ -77,8 +77,8 @@
             "zIndex": 2,
             "id": "2416816b-0715-46f0-9c2c-6af4ad269c36",
             "data": {
-              "name": "Systemadministratör",
-              "description": "",
+              "name": "IT Förvaltningsledare",
+              "description": "IT-enheten hanterar webapplikationer som ger åtkomst till data/information rörande alla mediainstallationer på sjukhusen",
               "type": "tm.Actor",
               "isTrustBoundary": false,
               "outOfScope": false,
@@ -886,7 +886,7 @@
             },
             "attrs": {
               "text": {
-                "text": "Tjänst för \"Ritningshantering och driftsinstruktioner\""
+                "text": "\"Ritningshantering och driftsinstruktioner\""
               },
               "body": {
                 "stroke": "#333333",
