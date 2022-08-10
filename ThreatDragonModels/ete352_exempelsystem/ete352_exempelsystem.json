@@ -16,7 +16,7 @@
         "cells": [
           {
             "position": {
-              "x": 530,
+              "x": 630,
               "y": 20
             },
             "size": {
@@ -56,8 +56,8 @@
           },
           {
             "position": {
-              "x": 841,
-              "y": 10
+              "x": 700,
+              "y": 360
             },
             "size": {
               "width": 160,
@@ -121,54 +121,6 @@
               "hasOpenThreats": false,
               "providesAuthentication": false
             }
-          },
-          {
-            "shape": "flow",
-            "attrs": {
-              "line": {
-                "stroke": "#333333",
-                "strokeWidth": 1,
-                "targetMarker": {
-                  "name": "classic"
-                },
-                "strokeDasharray": null
-              }
-            },
-            "width": 200,
-            "height": 100,
-            "zIndex": 10,
-            "connector": "smooth",
-            "data": {
-              "type": "tm.Flow",
-              "name": "Hanterar",
-              "description": "",
-              "outOfScope": false,
-              "reasonOutOfScope": "",
-              "protocol": "",
-              "isEncrypted": false,
-              "isPublicNetwork": false,
-              "hasOpenThreats": false,
-              "threats": [],
-              "isTrustBoundary": false
-            },
-            "id": "a7187ac7-368c-4f6a-8abc-96ece56d1dbf",
-            "labels": [
-              {
-                "position": 0.5,
-                "attrs": {
-                  "label": {
-                    "text": "Hanterar"
-                  }
-                }
-              }
-            ],
-            "source": {
-              "cell": "2416816b-0715-46f0-9c2c-6af4ad269c36"
-            },
-            "target": {
-              "cell": "b216d5f2-f9ac-44cc-b014-dd67f37614e7"
-            },
-            "vertices": []
           },
           {
             "shape": "flow",
@@ -581,54 +533,6 @@
             "connector": "smooth",
             "data": {
               "type": "tm.Flow",
-              "name": "Åtkomst",
-              "description": "",
-              "outOfScope": false,
-              "reasonOutOfScope": "",
-              "protocol": "",
-              "isEncrypted": false,
-              "isPublicNetwork": false,
-              "hasOpenThreats": false,
-              "threats": [],
-              "isTrustBoundary": false
-            },
-            "id": "f21b176b-6a3d-4bc8-9939-79df2fa1e8a7",
-            "labels": [
-              {
-                "position": 0.5,
-                "attrs": {
-                  "label": {
-                    "text": "Åtkomst"
-                  }
-                }
-              }
-            ],
-            "source": {
-              "cell": "8884e768-7353-4e0a-ac85-8779e5c912ae"
-            },
-            "target": {
-              "cell": "112d1fee-d583-443c-bc7e-5aaeb03635b9"
-            },
-            "vertices": []
-          },
-          {
-            "shape": "flow",
-            "attrs": {
-              "line": {
-                "stroke": "#333333",
-                "strokeWidth": 1,
-                "targetMarker": {
-                  "name": "classic"
-                },
-                "strokeDasharray": null
-              }
-            },
-            "width": 200,
-            "height": 100,
-            "zIndex": 10,
-            "connector": "smooth",
-            "data": {
-              "type": "tm.Flow",
               "name": "Autentiserar",
               "description": "",
               "outOfScope": false,
@@ -677,6 +581,43 @@
             "connector": "smooth",
             "data": {
               "type": "tm.Flow",
+              "name": "",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "protocol": "",
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "hasOpenThreats": false,
+              "threats": []
+            },
+            "id": "62ec09cc-8178-4539-b7aa-a44d858d1b24",
+            "source": {
+              "cell": "4acd5c7e-70b1-4dc0-aa03-375286a5b2cf"
+            },
+            "target": {
+              "cell": "b216d5f2-f9ac-44cc-b014-dd67f37614e7"
+            },
+            "vertices": []
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "strokeWidth": 1,
+                "targetMarker": {
+                  "name": "classic"
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Flow",
               "name": "Levererar normalvärden",
               "description": "",
               "outOfScope": false,
@@ -693,16 +634,21 @@
               "Levererar normalvärden"
             ],
             "source": {
-              "cell": "0227b179-35c2-42f9-ac39-3f0f2cc4ac58"
+              "x": 470,
+              "y": 170
             },
             "target": {
-              "x": 550,
-              "y": 120
+              "x": 680,
+              "y": 100
             },
             "vertices": [
               {
-                "x": 490,
-                "y": 220
+                "x": 530,
+                "y": 170
+              },
+              {
+                "x": 570,
+                "y": 130
               }
             ]
           },
@@ -734,14 +680,14 @@
               "hasOpenThreats": false,
               "threats": []
             },
-            "id": "62ec09cc-8178-4539-b7aa-a44d858d1b24",
+            "id": "72e1a938-3263-4f3e-b925-ce1108d4b88e",
             "source": {
-              "cell": "4acd5c7e-70b1-4dc0-aa03-375286a5b2cf"
+              "x": 350,
+              "y": 370
             },
             "target": {
-              "cell": "b216d5f2-f9ac-44cc-b014-dd67f37614e7"
-            },
-            "vertices": []
+              "cell": "8884e768-7353-4e0a-ac85-8779e5c912ae"
+            }
           },
           {
             "position": {
@@ -944,6 +890,52 @@
               "providesAuthentication": false
             },
             "zIndex": 26
+          },
+          {
+            "position": {
+              "x": 398,
+              "y": 20
+            },
+            "size": {
+              "width": 112.5,
+              "height": 60
+            },
+            "attrs": {
+              "text": {
+                "text": "Hanterar"
+              }
+            },
+            "shape": "td-text-block",
+            "id": "cdce4426-65da-4236-9b09-ebe3330a4bfa",
+            "zIndex": 27,
+            "data": {
+              "type": "tm.Text",
+              "name": "Hanterar",
+              "hasOpenThreats": false
+            }
+          },
+          {
+            "position": {
+              "x": 417.5,
+              "y": 320
+            },
+            "size": {
+              "width": 112.5,
+              "height": 60
+            },
+            "attrs": {
+              "text": {
+                "text": "Åtkomst"
+              }
+            },
+            "shape": "td-text-block",
+            "id": "b0e1c732-94ab-4240-8942-e6e7fda5174c",
+            "zIndex": 28,
+            "data": {
+              "type": "tm.Text",
+              "name": "Åtkomst",
+              "hasOpenThreats": false
+            }
           }
         ],
         "version": "2.0",
