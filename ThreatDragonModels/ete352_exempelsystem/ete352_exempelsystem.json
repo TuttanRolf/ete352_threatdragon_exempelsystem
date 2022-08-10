@@ -65,7 +65,7 @@
             },
             "attrs": {
               "text": {
-                "text": "Systemadministratör"
+                "text": "IT Förvaltningsledare"
               },
               "body": {
                 "stroke": "#333333",
@@ -932,8 +932,8 @@
             "zIndex": 15,
             "id": "134e6666-bb56-4a4e-bbc9-13061ab81727",
             "data": {
-              "name": "Fakturasystem",
-              "description": "Fakturahantering",
+              "name": "Installationsdatabas",
+              "description": "Relationsdatabas för samtliga installationer, del av ecosystemet för fastighetsförvaltningen av sjukhusen",
               "type": "tm.Process",
               "isTrustBoundary": false,
               "outOfScope": false,
