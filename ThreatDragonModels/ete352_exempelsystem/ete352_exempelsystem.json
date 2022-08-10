@@ -671,8 +671,8 @@
                 "text": "Molntjänst"
               },
               "body": {
-                "stroke": "#333333",
-                "strokeWidth": 1,
+                "stroke": "red",
+                "strokeWidth": 3,
                 "strokeDasharray": null
               }
             },
@@ -686,8 +686,29 @@
               "isTrustBoundary": false,
               "outOfScope": false,
               "reasonOutOfScope": "",
-              "threats": [],
-              "hasOpenThreats": false
+              "threats": [
+                {
+                  "id": "a3607a99-fe29-47ba-b694-f9ba2a1dabbf",
+                  "status": "Open",
+                  "severity": "High",
+                  "title": "Obehöriga får åtkomst till kritiska system och informationstillgångar",
+                  "type": "Spoofing",
+                  "description": "Obehöriga får avsiktligt eller oavsiktligt åtkomster som riskerar att hota driften. ",
+                  "mitigation": "Skyddsåtgärder är (1) Hög säkerhet i autentisering, (2) Hög säkerhet i behörighetssättning, (3) Hög kunskap och medvetenhet hos behöriga.",
+                  "modelType": "STRIDE"
+                },
+                {
+                  "id": "0092e1b5-d474-46de-9243-080d7a734648",
+                  "status": "Open",
+                  "severity": "High",
+                  "title": "Integritet hotas för kritiska funktioner och informationstillgångar ",
+                  "type": "Tampering",
+                  "description": "Om obehöriga får tillträde till funktioner, tjänster och information kan dessa förvanskas med följden att integriteten hotas och utöver det kan aktörer ta över kontrollen över systemet.",
+                  "mitigation": "Skyddsåtgärder är (1) Kunskap och medvetenhet hos behöriga, (2) Behörighetsinställningar korrekt managerade så att risken för felaktig Elevation of privilige förhindras.",
+                  "modelType": "STRIDE"
+                }
+              ],
+              "hasOpenThreats": true
             }
           },
           {
