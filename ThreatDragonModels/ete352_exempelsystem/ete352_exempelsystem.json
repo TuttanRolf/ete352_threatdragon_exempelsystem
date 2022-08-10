@@ -90,8 +90,8 @@
           },
           {
             "position": {
-              "x": 210,
-              "y": 30
+              "x": 270,
+              "y": 140
             },
             "size": {
               "width": 160,
@@ -747,9 +747,15 @@
               "cell": "0227b179-35c2-42f9-ac39-3f0f2cc4ac58"
             },
             "target": {
-              "cell": "b216d5f2-f9ac-44cc-b014-dd67f37614e7"
+              "x": 550,
+              "y": 120
             },
-            "vertices": []
+            "vertices": [
+              {
+                "x": 490,
+                "y": 220
+              }
+            ]
           },
           {
             "position": {
@@ -918,6 +924,40 @@
               "hasOpenThreats": false,
               "providesAuthentication": false
             }
+          },
+          {
+            "position": {
+              "x": 220,
+              "y": 30
+            },
+            "size": {
+              "width": 160,
+              "height": 80
+            },
+            "attrs": {
+              "text": {
+                "text": "Extern driftsentreprenör"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 1,
+                "strokeDasharray": null
+              }
+            },
+            "shape": "actor",
+            "id": "4acd5c7e-70b1-4dc0-aa03-375286a5b2cf",
+            "data": {
+              "name": "Extern driftsentreprenör",
+              "description": "Externa driftsentreprenörer som anlitas för sjukhusdriften har åtkomst till driftskort och driftsinformation via en app för mobiler och paddor",
+              "type": "tm.Actor",
+              "isTrustBoundary": false,
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "threats": [],
+              "hasOpenThreats": false,
+              "providesAuthentication": false
+            },
+            "zIndex": 26
           }
         ],
         "version": "2.0",
