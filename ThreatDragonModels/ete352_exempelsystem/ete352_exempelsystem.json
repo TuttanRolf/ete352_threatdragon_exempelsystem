@@ -964,11 +964,16 @@
               "height": 200
             },
             "shape": "trust-boundary-box",
+            "attrs": {
+              "headerText": {
+                "text": "Sjukhusnätet (Trust boundary)"
+              }
+            },
             "id": "51f78d05-1c7a-41b8-9fe2-c9f53046db4a",
             "zIndex": 30,
             "data": {
               "type": "tm.BoundaryBox",
-              "name": "Trust Boundary",
+              "name": "Sjukhusnätet (Trust boundary)",
               "description": "",
               "isTrustBoundary": true,
               "hasOpenThreats": false
@@ -1007,11 +1012,16 @@
               "height": 280
             },
             "shape": "trust-boundary-box",
+            "attrs": {
+              "headerText": {
+                "text": "Kontorsnätet (Trust boundary)"
+              }
+            },
             "id": "d85bdccd-ec2c-4fe9-95b0-b90847bb0f33",
             "zIndex": 32,
             "data": {
               "type": "tm.BoundaryBox",
-              "name": "Trust Boundary",
+              "name": "Kontorsnätet (Trust boundary)",
               "description": "",
               "isTrustBoundary": true,
               "hasOpenThreats": false
