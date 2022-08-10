@@ -1,6 +1,7 @@
 {
   "summary": {
-    "title": "ete352_exempelsystem"
+    "title": "ete352_exempelsystem",
+    "owner": "Marie-Christine Rudbäck"
   },
   "detail": {
     "contributors": [
@@ -939,7 +940,7 @@
           }
         ],
         "version": "2.0",
-        "title": "Exempelsystem",
+        "title": "Ritningshantering Sjukhus",
         "thumbnail": "./public/content/images/thumbnail.jpg",
         "id": 0
       }
