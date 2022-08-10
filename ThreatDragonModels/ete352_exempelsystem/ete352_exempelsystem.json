@@ -90,8 +90,8 @@
           },
           {
             "position": {
-              "x": 530,
-              "y": 440
+              "x": 210,
+              "y": 30
             },
             "size": {
               "width": 160,
@@ -99,7 +99,7 @@
             },
             "attrs": {
               "text": {
-                "text": "Extern tjänst\n(Skatteverket)"
+                "text": "Extern tjänst\n(Sthlm Exergi)"
               },
               "body": {
                 "stroke": "#333333",
@@ -111,7 +111,7 @@
             "zIndex": 5,
             "id": "0227b179-35c2-42f9-ac39-3f0f2cc4ac58",
             "data": {
-              "name": "Extern tjänst\n(Skatteverket)",
+              "name": "Extern tjänst\n(Sthlm Exergi)",
               "description": "",
               "type": "tm.Actor",
               "isTrustBoundary": false,
@@ -391,102 +391,6 @@
               "threats": [],
               "isTrustBoundary": false
             },
-            "id": "a9cada84-6a04-466c-a27f-9324356513af",
-            "labels": [
-              {
-                "position": 0.5,
-                "attrs": {
-                  "label": {
-                    "text": ""
-                  }
-                }
-              }
-            ],
-            "source": {
-              "cell": "8884e768-7353-4e0a-ac85-8779e5c912ae"
-            },
-            "target": {
-              "cell": "8438e351-6a23-417a-b64d-7af55bf10670"
-            },
-            "vertices": []
-          },
-          {
-            "shape": "flow",
-            "attrs": {
-              "line": {
-                "stroke": "#333333",
-                "strokeWidth": 1,
-                "targetMarker": {
-                  "name": "classic"
-                },
-                "strokeDasharray": null
-              }
-            },
-            "width": 200,
-            "height": 100,
-            "zIndex": 10,
-            "connector": "smooth",
-            "data": {
-              "type": "tm.Flow",
-              "name": "",
-              "description": "",
-              "outOfScope": false,
-              "reasonOutOfScope": "",
-              "protocol": "",
-              "isEncrypted": false,
-              "isPublicNetwork": false,
-              "hasOpenThreats": false,
-              "threats": [],
-              "isTrustBoundary": false
-            },
-            "id": "d82c7421-a0d9-45f3-988b-2388efb8e988",
-            "labels": [
-              {
-                "position": 0.5,
-                "attrs": {
-                  "label": {
-                    "text": ""
-                  }
-                }
-              }
-            ],
-            "source": {
-              "cell": "8884e768-7353-4e0a-ac85-8779e5c912ae"
-            },
-            "target": {
-              "cell": "0227b179-35c2-42f9-ac39-3f0f2cc4ac58"
-            },
-            "vertices": []
-          },
-          {
-            "shape": "flow",
-            "attrs": {
-              "line": {
-                "stroke": "#333333",
-                "strokeWidth": 1,
-                "targetMarker": {
-                  "name": "classic"
-                },
-                "strokeDasharray": null
-              }
-            },
-            "width": 200,
-            "height": 100,
-            "zIndex": 10,
-            "connector": "smooth",
-            "data": {
-              "type": "tm.Flow",
-              "name": "",
-              "description": "",
-              "outOfScope": false,
-              "reasonOutOfScope": "",
-              "protocol": "",
-              "isEncrypted": false,
-              "isPublicNetwork": false,
-              "hasOpenThreats": false,
-              "threats": [],
-              "isTrustBoundary": false
-            },
             "id": "9652b2eb-e967-4bad-8076-df031a084d65",
             "labels": [
               {
@@ -696,7 +600,12 @@
             "target": {
               "cell": "8884e768-7353-4e0a-ac85-8779e5c912ae"
             },
-            "vertices": []
+            "vertices": [
+              {
+                "x": 390,
+                "y": 250
+              }
+            ]
           },
           {
             "shape": "flow",
@@ -838,7 +747,7 @@
               "cell": "0227b179-35c2-42f9-ac39-3f0f2cc4ac58"
             },
             "target": {
-              "cell": "8884e768-7353-4e0a-ac85-8779e5c912ae"
+              "cell": "b216d5f2-f9ac-44cc-b014-dd67f37614e7"
             },
             "vertices": []
           },
@@ -865,7 +774,7 @@
             "zIndex": 12,
             "id": "8438e351-6a23-417a-b64d-7af55bf10670",
             "data": {
-              "name": "Molntjänst Region Sthlm",
+              "name": "Molntjänst",
               "description": "Autentisering, Access control av externa enheter",
               "type": "tm.Process",
               "isTrustBoundary": false,
