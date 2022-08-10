@@ -565,16 +565,97 @@
             },
             "id": "7f63961e-1881-4bb3-8d33-1758a5f838ff",
             "source": {
-              "x": 790,
-              "y": 120
+              "cell": "fd1a81db-67dc-453a-8081-8cd529680112"
             },
             "target": {
-              "x": 860,
-              "y": 140
+              "x": 780,
+              "y": 110
             },
             "labels": [
               ""
             ]
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "strokeWidth": 1,
+                "targetMarker": {
+                  "name": "classic"
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Flow",
+              "name": "",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "protocol": "",
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "hasOpenThreats": false,
+              "threats": []
+            },
+            "id": "32e2c7a9-2c6b-46e4-87b1-2c840c0f95a2",
+            "source": {
+              "x": 860,
+              "y": 40
+            },
+            "target": {
+              "x": 760,
+              "y": -40
+            },
+            "vertices": [
+              {
+                "x": 810,
+                "y": 0
+              }
+            ]
+          },
+          {
+            "shape": "trust-broundary-curve",
+            "attrs": {
+              "line": {
+                "targetMarker": "",
+                "sourceMarker": ""
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "labels": [
+              {
+                "attrs": {
+                  "text": {
+                    "text": ""
+                  }
+                }
+              }
+            ],
+            "data": {
+              "type": "tm.Boundary",
+              "name": "",
+              "description": "",
+              "isTrustBoundary": true,
+              "hasOpenThreats": false
+            },
+            "id": "b4a06f81-0243-4af8-9aaa-ac6cc9f954de",
+            "source": {
+              "x": 680,
+              "y": 50
+            },
+            "target": {
+              "x": 720,
+              "y": -10
+            }
           },
           {
             "position": {
@@ -747,7 +828,7 @@
           {
             "position": {
               "x": 890,
-              "y": 20
+              "y": 25
             },
             "size": {
               "width": 100,
@@ -803,8 +884,8 @@
           },
           {
             "position": {
-              "x": 1090,
-              "y": 200
+              "x": 620,
+              "y": -9.5
             },
             "size": {
               "width": 426.66666666666663,
@@ -919,6 +1000,29 @@
               "hasOpenThreats": false
             },
             "zIndex": 34
+          },
+          {
+            "position": {
+              "x": 812.8333333333333,
+              "y": -70
+            },
+            "size": {
+              "width": 112.5,
+              "height": 60
+            },
+            "attrs": {
+              "text": {
+                "text": "Autentiserar (region Sthlm)"
+              }
+            },
+            "shape": "td-text-block",
+            "id": "2885f8db-ded5-4729-9b56-05a18203a883",
+            "zIndex": 35,
+            "data": {
+              "type": "tm.Text",
+              "name": "Autentiserar (region Sthlm)",
+              "hasOpenThreats": false
+            }
           }
         ],
         "version": "2.0",
