@@ -983,7 +983,7 @@
             },
             "attrs": {
               "text": {
-                "text": "Åtkomst Autentisering"
+                "text": "Autentisering, åtkomst/kopplingar till sjukhusnäten och mediasystemen"
               }
             },
             "shape": "td-text-block",
@@ -991,7 +991,7 @@
             "id": "5c660091-62b1-4a15-833c-34ffb2fff541",
             "data": {
               "type": "tm.Text",
-              "name": "Åtkomst Autentisering, kopplingar till mediasystemen",
+              "name": "Autentisering, åtkomst/kopplingar till sjukhusnäten och mediasystemen",
               "hasOpenThreats": false
             }
           },
