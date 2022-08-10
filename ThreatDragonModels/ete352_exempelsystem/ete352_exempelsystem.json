@@ -40,8 +40,8 @@
             "id": "b216d5f2-f9ac-44cc-b014-dd67f37614e7",
             "zIndex": 1,
             "data": {
-              "name": "Databas",
-              "description": "",
+              "name": "Sensordatabas",
+              "description": "Databas för all sensordata på sjukhuset, från alla PLC-system, för alla mediaslag",
               "type": "tm.Store",
               "isTrustBoundary": false,
               "outOfScope": false,
@@ -987,7 +987,7 @@
             },
             "attrs": {
               "text": {
-                "text": "Kontorsenhet"
+                "text": "Driftscontrollers"
               },
               "body": {
                 "stroke": "#333333",
