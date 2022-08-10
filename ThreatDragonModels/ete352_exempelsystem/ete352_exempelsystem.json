@@ -1003,8 +1003,8 @@
           },
           {
             "position": {
-              "x": 812.8333333333333,
-              "y": -70
+              "x": 832.8333333333333,
+              "y": -75
             },
             "size": {
               "width": 112.5,
@@ -1012,7 +1012,7 @@
             },
             "attrs": {
               "text": {
-                "text": "Autentiserar (region Sthlm)"
+                "text": "Autentiserar (Region Sthlms tjänst)"
               }
             },
             "shape": "td-text-block",
@@ -1020,7 +1020,7 @@
             "zIndex": 35,
             "data": {
               "type": "tm.Text",
-              "name": "Autentiserar (region Sthlm)",
+              "name": "Autentiserar (Region Sthlms tjänst)",
               "hasOpenThreats": false
             }
           }
