@@ -443,6 +443,9 @@
               "threats": []
             },
             "id": "4ae6aa56-d4a5-406c-9003-7585cd269919",
+            "labels": [
+              ""
+            ],
             "source": {
               "x": 450,
               "y": 110
@@ -450,9 +453,6 @@
             "target": {
               "cell": "b216d5f2-f9ac-44cc-b014-dd67f37614e7"
             },
-            "labels": [
-              ""
-            ],
             "vertices": [
               {
                 "x": 530,
@@ -939,8 +939,8 @@
               }
             },
             "shape": "td-text-block",
-            "id": "b8ec9b18-0df0-4680-b3c7-9045955ab25c",
             "zIndex": 29,
+            "id": "b8ec9b18-0df0-4680-b3c7-9045955ab25c",
             "data": {
               "type": "tm.Text",
               "name": "Hämtar normalvärden fr extern tjänst",
@@ -962,8 +962,8 @@
                 "text": "Sjukhusnätet (Trust boundary)"
               }
             },
-            "id": "51f78d05-1c7a-41b8-9fe2-c9f53046db4a",
             "zIndex": 30,
+            "id": "51f78d05-1c7a-41b8-9fe2-c9f53046db4a",
             "data": {
               "type": "tm.BoundaryBox",
               "name": "Sjukhusnätet (Trust boundary)",
@@ -987,11 +987,11 @@
               }
             },
             "shape": "td-text-block",
-            "id": "5c660091-62b1-4a15-833c-34ffb2fff541",
             "zIndex": 31,
+            "id": "5c660091-62b1-4a15-833c-34ffb2fff541",
             "data": {
               "type": "tm.Text",
-              "name": "Åtkomst Autentisering",
+              "name": "Åtkomst Autentisering, kopplingar till mediasystemen",
               "hasOpenThreats": false
             }
           },
@@ -1010,8 +1010,8 @@
                 "text": "Kontorsnätet (Trust boundary)"
               }
             },
-            "id": "d85bdccd-ec2c-4fe9-95b0-b90847bb0f33",
             "zIndex": 32,
+            "id": "d85bdccd-ec2c-4fe9-95b0-b90847bb0f33",
             "data": {
               "type": "tm.BoundaryBox",
               "name": "Kontorsnätet (Trust boundary)",
@@ -1035,8 +1035,8 @@
               }
             },
             "shape": "td-text-block",
-            "id": "3827071a-e03c-45d5-801f-cc2cc347dce0",
             "zIndex": 33,
+            "id": "3827071a-e03c-45d5-801f-cc2cc347dce0",
             "data": {
               "type": "tm.Text",
               "name": "Hanterar",
