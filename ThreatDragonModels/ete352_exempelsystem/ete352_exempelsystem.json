@@ -877,12 +877,12 @@
           },
           {
             "position": {
-              "x": 560,
-              "y": 240
+              "x": 530,
+              "y": 210
             },
             "size": {
-              "width": 100,
-              "height": 100
+              "width": 130,
+              "height": 130
             },
             "attrs": {
               "text": {
@@ -898,7 +898,7 @@
             "zIndex": 14,
             "id": "8884e768-7353-4e0a-ac85-8779e5c912ae",
             "data": {
-              "name": "Tjänst för \"Ritningshantering och driftsinstruktioner\"",
+              "name": "\"Ritningshantering och driftsinstruktioner\"",
               "description": "Applikationen hanterar ritningar över sjukhusens byggnad, lokaler och mediainstallationer samt länkar till driftsinstruktionerna för resp mediainstallation.",
               "type": "tm.Process",
               "isTrustBoundary": false,
