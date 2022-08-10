@@ -404,14 +404,7 @@
             },
             "id": "0181f6ae-839c-497a-b36e-713b8c3460dd",
             "labels": [
-              {
-                "position": 0.5,
-                "attrs": {
-                  "label": {
-                    "text": "Autentiserar"
-                  }
-                }
-              }
+              "Autentiserar"
             ],
             "source": {
               "cell": "8438e351-6a23-417a-b64d-7af55bf10670"
@@ -981,8 +974,8 @@
           },
           {
             "position": {
-              "x": 450,
-              "y": 130
+              "x": 470,
+              "y": 140
             },
             "size": {
               "width": 112.5,
@@ -990,7 +983,7 @@
             },
             "attrs": {
               "text": {
-                "text": "Åtkomst"
+                "text": "Åtkomst Autentisering"
               }
             },
             "shape": "td-text-block",
@@ -998,7 +991,7 @@
             "zIndex": 31,
             "data": {
               "type": "tm.Text",
-              "name": "Åtkomst",
+              "name": "Åtkomst Autentisering",
               "hasOpenThreats": false
             }
           },
