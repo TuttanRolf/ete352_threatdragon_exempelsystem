@@ -886,7 +886,7 @@
             },
             "attrs": {
               "text": {
-                "text": "Kundhantering"
+                "text": "Tjänst för \"Ritningshantering och driftsinstruktioner\""
               },
               "body": {
                 "stroke": "#333333",
@@ -898,14 +898,15 @@
             "zIndex": 14,
             "id": "8884e768-7353-4e0a-ac85-8779e5c912ae",
             "data": {
-              "name": "Kundhantering",
-              "description": "",
+              "name": "Tjänst för \"Ritningshantering och driftsinstruktioner\"",
+              "description": "Applikationen hanterar ritningar över sjukhusens byggnad, lokaler och mediainstallationer samt länkar till driftsinstruktionerna för resp mediainstallation.",
               "type": "tm.Process",
               "isTrustBoundary": false,
               "outOfScope": false,
               "reasonOutOfScope": "",
               "threats": [],
-              "hasOpenThreats": false
+              "hasOpenThreats": false,
+              "privilegeLevel": "High"
             }
           },
           {
