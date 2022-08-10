@@ -18,8 +18,8 @@
         "cells": [
           {
             "position": {
-              "x": 600,
-              "y": 20
+              "x": 668,
+              "y": 38
             },
             "size": {
               "width": 160,
@@ -382,95 +382,6 @@
             "connector": "smooth",
             "data": {
               "type": "tm.Flow",
-              "name": "",
-              "description": "",
-              "outOfScope": false,
-              "reasonOutOfScope": "",
-              "protocol": "",
-              "isEncrypted": false,
-              "isPublicNetwork": false,
-              "hasOpenThreats": false,
-              "threats": [],
-              "isTrustBoundary": false
-            },
-            "id": "c9208627-7ba0-4b00-b23c-45d1870d413b",
-            "labels": [
-              {
-                "position": 0.5,
-                "attrs": {
-                  "label": {
-                    "text": ""
-                  }
-                }
-              }
-            ],
-            "source": {
-              "cell": "8884e768-7353-4e0a-ac85-8779e5c912ae"
-            },
-            "target": {
-              "cell": "b216d5f2-f9ac-44cc-b014-dd67f37614e7"
-            },
-            "vertices": []
-          },
-          {
-            "shape": "flow",
-            "attrs": {
-              "line": {
-                "stroke": "#333333",
-                "strokeWidth": 1,
-                "targetMarker": {
-                  "name": "classic"
-                },
-                "strokeDasharray": null
-              }
-            },
-            "width": 200,
-            "height": 100,
-            "zIndex": 10,
-            "connector": "smooth",
-            "data": {
-              "type": "tm.Flow",
-              "name": "Lagrar/Hämtar data",
-              "description": "",
-              "outOfScope": false,
-              "reasonOutOfScope": "",
-              "protocol": "",
-              "isEncrypted": false,
-              "isPublicNetwork": false,
-              "hasOpenThreats": false,
-              "threats": [],
-              "isTrustBoundary": false
-            },
-            "id": "0566bcbc-1fc2-44a4-8117-a4ea5d755683",
-            "labels": [
-              "Lagrar/Hämtar data"
-            ],
-            "source": {
-              "cell": "b216d5f2-f9ac-44cc-b014-dd67f37614e7"
-            },
-            "target": {
-              "cell": "8884e768-7353-4e0a-ac85-8779e5c912ae"
-            },
-            "vertices": []
-          },
-          {
-            "shape": "flow",
-            "attrs": {
-              "line": {
-                "stroke": "#333333",
-                "strokeWidth": 1,
-                "targetMarker": {
-                  "name": "classic"
-                },
-                "strokeDasharray": null
-              }
-            },
-            "width": 200,
-            "height": 100,
-            "zIndex": 10,
-            "connector": "smooth",
-            "data": {
-              "type": "tm.Flow",
               "name": "Åtkomst",
               "description": "",
               "outOfScope": false,
@@ -586,43 +497,6 @@
               "hasOpenThreats": false,
               "threats": []
             },
-            "id": "62ec09cc-8178-4539-b7aa-a44d858d1b24",
-            "source": {
-              "cell": "4acd5c7e-70b1-4dc0-aa03-375286a5b2cf"
-            },
-            "target": {
-              "cell": "b216d5f2-f9ac-44cc-b014-dd67f37614e7"
-            },
-            "vertices": []
-          },
-          {
-            "shape": "flow",
-            "attrs": {
-              "line": {
-                "stroke": "#333333",
-                "strokeWidth": 1,
-                "targetMarker": {
-                  "name": "classic"
-                },
-                "strokeDasharray": null
-              }
-            },
-            "width": 200,
-            "height": 100,
-            "zIndex": 10,
-            "connector": "smooth",
-            "data": {
-              "type": "tm.Flow",
-              "name": "",
-              "description": "",
-              "outOfScope": false,
-              "reasonOutOfScope": "",
-              "protocol": "",
-              "isEncrypted": false,
-              "isPublicNetwork": false,
-              "hasOpenThreats": false,
-              "threats": []
-            },
             "id": "72e1a938-3263-4f3e-b925-ce1108d4b88e",
             "source": {
               "x": 350,
@@ -677,6 +551,83 @@
                 "y": 60
               }
             ]
+          },
+          {
+            "shape": "trust-broundary-curve",
+            "attrs": {
+              "line": {
+                "targetMarker": "",
+                "sourceMarker": ""
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "labels": [
+              {
+                "attrs": {
+                  "text": {
+                    "text": ""
+                  }
+                }
+              }
+            ],
+            "data": {
+              "type": "tm.Boundary",
+              "name": "",
+              "description": "",
+              "isTrustBoundary": true,
+              "hasOpenThreats": false
+            },
+            "id": "0ccb8f08-9c25-4732-8973-881ad2238f45",
+            "source": {
+              "x": 596,
+              "y": 208
+            },
+            "target": {
+              "x": 670,
+              "y": 130
+            },
+            "vertices": []
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "strokeWidth": 1,
+                "targetMarker": {
+                  "name": "classic"
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Flow",
+              "name": "",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "protocol": "",
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "hasOpenThreats": false,
+              "threats": []
+            },
+            "id": "62ec09cc-8178-4539-b7aa-a44d858d1b24",
+            "source": {
+              "cell": "4acd5c7e-70b1-4dc0-aa03-375286a5b2cf"
+            },
+            "target": {
+              "x": 840,
+              "y": 60
+            },
+            "vertices": []
           },
           {
             "position": {
@@ -747,8 +698,8 @@
           },
           {
             "position": {
-              "x": 871,
-              "y": 240
+              "x": 925.3333333333333,
+              "y": 250
             },
             "size": {
               "width": 100,
@@ -814,8 +765,8 @@
           },
           {
             "position": {
-              "x": 250,
-              "y": 360
+              "x": 460,
+              "y": 400
             },
             "size": {
               "width": 160,
@@ -848,7 +799,7 @@
           },
           {
             "position": {
-              "x": 911,
+              "x": 860,
               "y": 118
             },
             "size": {
@@ -882,8 +833,8 @@
           },
           {
             "position": {
-              "x": 828,
-              "y": 68
+              "x": 860,
+              "y": 86
             },
             "size": {
               "width": 60,
@@ -905,8 +856,8 @@
           },
           {
             "position": {
-              "x": 417.5,
-              "y": 320
+              "x": 357.5,
+              "y": 290
             },
             "size": {
               "width": 112.5,
@@ -923,6 +874,92 @@
             "data": {
               "type": "tm.Text",
               "name": "Åtkomst",
+              "hasOpenThreats": false
+            }
+          },
+          {
+            "position": {
+              "x": 436,
+              "y": 20
+            },
+            "size": {
+              "width": 112.5,
+              "height": 60
+            },
+            "attrs": {
+              "text": {
+                "text": "Hämtar normalvärden fr extern tjänst"
+              }
+            },
+            "shape": "td-text-block",
+            "id": "b8ec9b18-0df0-4680-b3c7-9045955ab25c",
+            "zIndex": 29,
+            "data": {
+              "type": "tm.Text",
+              "name": "Hämtar normalvärden fr extern tjänst",
+              "hasOpenThreats": false
+            }
+          },
+          {
+            "position": {
+              "x": 620,
+              "y": 15
+            },
+            "size": {
+              "width": 405.33333333333326,
+              "height": 190
+            },
+            "shape": "trust-boundary-box",
+            "id": "51f78d05-1c7a-41b8-9fe2-c9f53046db4a",
+            "zIndex": 30,
+            "data": {
+              "type": "tm.BoundaryBox",
+              "name": "Trust Boundary",
+              "description": "",
+              "isTrustBoundary": true,
+              "hasOpenThreats": false
+            }
+          },
+          {
+            "position": {
+              "x": 507.5,
+              "y": 150
+            },
+            "size": {
+              "width": 112.5,
+              "height": 60
+            },
+            "attrs": {
+              "text": {
+                "text": "Åtkomst"
+              }
+            },
+            "shape": "td-text-block",
+            "id": "5c660091-62b1-4a15-833c-34ffb2fff541",
+            "zIndex": 31,
+            "data": {
+              "type": "tm.Text",
+              "name": "Åtkomst",
+              "hasOpenThreats": false
+            }
+          },
+          {
+            "position": {
+              "x": 507.5,
+              "y": 239.6874999999999
+            },
+            "size": {
+              "width": 597.3333333333335,
+              "height": 280
+            },
+            "shape": "trust-boundary-box",
+            "id": "d85bdccd-ec2c-4fe9-95b0-b90847bb0f33",
+            "zIndex": 32,
+            "data": {
+              "type": "tm.BoundaryBox",
+              "name": "Trust Boundary",
+              "description": "",
+              "isTrustBoundary": true,
               "hasOpenThreats": false
             }
           }
