@@ -703,8 +703,8 @@
                   "severity": "High",
                   "title": "Integritet hotas för kritiska funktioner och informationstillgångar ",
                   "type": "Tampering",
-                  "description": "Om obehöriga får tillträde till funktioner, tjänster och information kan dessa förvanskas med följden att integriteten hotas och utöver det kan aktörer ta över kontrollen över systemet.",
-                  "mitigation": "Skyddsåtgärder är (1) Kunskap och medvetenhet hos behöriga, (2) Behörighetsinställningar korrekt managerade så att risken för felaktig Elevation of privilige förhindras.",
+                  "description": "Om obehöriga får tillträde till administration och behörighetsinställningar för konton för sjukhusnätet hotas integriteten och utöver det kan aktörer ta över kontrollen över systemen i sjukhusmiljön.",
+                  "mitigation": "Skyddsåtgärder är (1) Kunskap och medvetenhet hos behöriga, (2) Behörighetsinställningar korrekt managerade så att risken för felaktig Elevation of privilige förhindras, (3) Processen för beställningar av konton ska ha hög säkerhetsnivå.",
                   "modelType": "STRIDE"
                 }
               ],
