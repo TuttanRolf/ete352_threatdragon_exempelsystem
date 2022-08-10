@@ -953,7 +953,7 @@
             },
             "attrs": {
               "text": {
-                "text": "Extern enhet"
+                "text": "Extern driftsentreprenör"
               },
               "body": {
                 "stroke": "#333333",
@@ -999,8 +999,8 @@
             "zIndex": 25,
             "id": "112d1fee-d583-443c-bc7e-5aaeb03635b9",
             "data": {
-              "name": "Kontorsenhet",
-              "description": "Dator",
+              "name": "Driftscontrollers",
+              "description": "Driftscontroller i bolaget övervakar de externa driftsentreprenörerna och säkerställer leverans avseende driftssäkerhet",
               "type": "tm.Actor",
               "isTrustBoundary": false,
               "outOfScope": false,
