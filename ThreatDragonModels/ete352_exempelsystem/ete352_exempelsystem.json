@@ -881,8 +881,8 @@
               "y": 210
             },
             "size": {
-              "width": 130,
-              "height": 130
+              "width": 120,
+              "height": 120
             },
             "attrs": {
               "text": {
@@ -920,7 +920,7 @@
             },
             "attrs": {
               "text": {
-                "text": "Fakturasystem"
+                "text": "Installationsdatabas"
               },
               "body": {
                 "stroke": "#333333",
@@ -965,8 +965,8 @@
             "zIndex": 24,
             "id": "fd1a81db-67dc-453a-8081-8cd529680112",
             "data": {
-              "name": "Extern enhet",
-              "description": "Mobil\nDator",
+              "name": "Extern driftsentreprenör",
+              "description": "Externa driftsentreprenörer som anlitas för sjukhusdriften har åtkomst till driftskort och driftsinformation via en app för mobiler och paddor",
               "type": "tm.Actor",
               "isTrustBoundary": false,
               "outOfScope": false,
