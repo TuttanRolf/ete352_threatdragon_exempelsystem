@@ -898,7 +898,7 @@
             "zIndex": 14,
             "id": "8884e768-7353-4e0a-ac85-8779e5c912ae",
             "data": {
-              "name": "Appl: Hantering ritningar/driftskort",
+              "name": "System: Hanterar ritningar/driftskort",
               "description": "Applikationen hanterar ritningar över sjukhusens byggnad, lokaler och mediainstallationer samt länkar till driftsinstruktionerna för resp mediainstallation.",
               "type": "tm.Process",
               "isTrustBoundary": false,
