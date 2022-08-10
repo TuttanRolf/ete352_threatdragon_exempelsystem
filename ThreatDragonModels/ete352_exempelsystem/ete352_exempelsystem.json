@@ -119,7 +119,18 @@
               "isTrustBoundary": false,
               "outOfScope": true,
               "reasonOutOfScope": "Externt",
-              "threats": [],
+              "threats": [
+                {
+                  "id": "4f60a731-5003-4f01-b306-a6a651f48f96",
+                  "status": "",
+                  "severity": "",
+                  "title": "",
+                  "type": "",
+                  "description": "",
+                  "mitigation": "",
+                  "modelType": ""
+                }
+              ],
               "hasOpenThreats": false,
               "providesAuthentication": false
             }
@@ -725,8 +736,8 @@
                 "text": "System: Hanterar ritningar/driftskort"
               },
               "body": {
-                "stroke": "#333333",
-                "strokeWidth": 1,
+                "stroke": "red",
+                "strokeWidth": 3,
                 "strokeDasharray": null
               }
             },
@@ -740,8 +751,19 @@
               "isTrustBoundary": false,
               "outOfScope": false,
               "reasonOutOfScope": "",
-              "threats": [],
-              "hasOpenThreats": false,
+              "threats": [
+                {
+                  "id": "4e074bfe-7581-4024-a796-d6297d0a2a23",
+                  "status": "Open",
+                  "severity": "Medium",
+                  "title": "DDOS-attacker förhindrar åtkomst",
+                  "type": "Availability",
+                  "description": "DDOS-attacker påverkar applikationen så att alla administrativa funktioner som behöver åtkomst till informationstillgångarna inte kan arbeta. ",
+                  "mitigation": "Skyddsåtgärder är: (1) Uppdaterade och testade kontinuitetsplaner som gör att manuella rutiner han hanteras om/när systemets tjänster är otillgängliga. (2) Hög kännedom och träning på kontinuitetsplanerna, (3) backup och återläsning testas regelbundet så att snabb återställning ev kan ske i redundant miljö om problemet blir varaktigt",
+                  "modelType": "CIA"
+                }
+              ],
+              "hasOpenThreats": true,
               "privilegeLevel": "High"
             }
           },
@@ -953,8 +975,8 @@
           },
           {
             "position": {
-              "x": 449.33333333333326,
-              "y": 220
+              "x": 960,
+              "y": 210
             },
             "size": {
               "width": 597.3333333333335,
