@@ -575,16 +575,16 @@
               "threats": []
             },
             "id": "7f63961e-1881-4bb3-8d33-1758a5f838ff",
+            "labels": [
+              ""
+            ],
             "source": {
               "cell": "fd1a81db-67dc-453a-8081-8cd529680112"
             },
             "target": {
               "x": 780,
               "y": 110
-            },
-            "labels": [
-              ""
-            ]
+            }
           },
           {
             "shape": "flow",
@@ -965,31 +965,6 @@
           },
           {
             "position": {
-              "x": 620,
-              "y": -9.5
-            },
-            "size": {
-              "width": 426.66666666666663,
-              "height": 200
-            },
-            "shape": "trust-boundary-box",
-            "attrs": {
-              "headerText": {
-                "text": "Sjukhusnätet (Trust boundary)"
-              }
-            },
-            "zIndex": 30,
-            "id": "51f78d05-1c7a-41b8-9fe2-c9f53046db4a",
-            "data": {
-              "type": "tm.BoundaryBox",
-              "name": "Sjukhusnätet (Trust boundary)",
-              "description": "",
-              "isTrustBoundary": true,
-              "hasOpenThreats": false
-            }
-          },
-          {
-            "position": {
               "x": 470,
               "y": 140
             },
@@ -1008,31 +983,6 @@
             "data": {
               "type": "tm.Text",
               "name": "Autentisering, åtkomst/kopplingar till sjukhusnäten och mediasystemen",
-              "hasOpenThreats": false
-            }
-          },
-          {
-            "position": {
-              "x": 960,
-              "y": 210
-            },
-            "size": {
-              "width": 597.3333333333335,
-              "height": 280
-            },
-            "shape": "trust-boundary-box",
-            "attrs": {
-              "headerText": {
-                "text": "Kontorsnätet (Trust boundary)"
-              }
-            },
-            "zIndex": 32,
-            "id": "d85bdccd-ec2c-4fe9-95b0-b90847bb0f33",
-            "data": {
-              "type": "tm.BoundaryBox",
-              "name": "Kontorsnätet (Trust boundary)",
-              "description": "",
-              "isTrustBoundary": true,
               "hasOpenThreats": false
             }
           },
@@ -1074,13 +1024,13 @@
               }
             },
             "shape": "td-text-block",
+            "zIndex": 34,
             "id": "130d7023-ca96-497b-8e98-a9643b3ed0bc",
             "data": {
               "type": "tm.Text",
               "name": "Hanterar",
               "hasOpenThreats": false
-            },
-            "zIndex": 34
+            }
           },
           {
             "position": {
@@ -1097,8 +1047,8 @@
               }
             },
             "shape": "td-text-block",
-            "id": "2885f8db-ded5-4729-9b56-05a18203a883",
             "zIndex": 35,
+            "id": "2885f8db-ded5-4729-9b56-05a18203a883",
             "data": {
               "type": "tm.Text",
               "name": "Autentiserar (Region Sthlms tjänst)",
