@@ -869,8 +869,8 @@
               }
             },
             "shape": "td-text-block",
-            "id": "c3bc4a90-635d-410e-938b-2c7789b9a036",
             "zIndex": 37,
+            "id": "c3bc4a90-635d-410e-938b-2c7789b9a036",
             "data": {
               "type": "tm.Text",
               "name": "Region Sthlms molntjänst (Azure): AD-kontohantering",
@@ -892,8 +892,8 @@
               }
             },
             "shape": "td-text-block",
-            "id": "32e09fe8-86ed-4d9d-b097-3bebcab2b771",
             "zIndex": 38,
+            "id": "32e09fe8-86ed-4d9d-b097-3bebcab2b771",
             "data": {
               "type": "tm.Text",
               "name": "Hanterar",
@@ -915,8 +915,8 @@
               }
             },
             "shape": "td-text-block",
-            "id": "577a2713-ef05-415d-af02-b9c3660daf60",
             "zIndex": 39,
+            "id": "577a2713-ef05-415d-af02-b9c3660daf60",
             "data": {
               "type": "tm.Text",
               "name": "Hanterar",
@@ -933,11 +933,11 @@
               "height": 60
             },
             "shape": "td-text-block",
-            "id": "d6bf02ce-72ca-4f3a-921f-7d786353e89b",
             "zIndex": 40,
+            "id": "d6bf02ce-72ca-4f3a-921f-7d786353e89b",
             "data": {
               "type": "tm.Text",
-              "name": "Hanterar",
+              "name": "Normalvärden importeras till Sensordatabasen från extern tjänst",
               "hasOpenThreats": false
             }
           }
