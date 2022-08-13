@@ -302,52 +302,6 @@
             "connector": "smooth",
             "data": {
               "type": "tm.Flow",
-              "name": "",
-              "description": "",
-              "outOfScope": false,
-              "reasonOutOfScope": "",
-              "protocol": "",
-              "isEncrypted": false,
-              "isPublicNetwork": false,
-              "hasOpenThreats": false,
-              "threats": []
-            },
-            "id": "4ae6aa56-d4a5-406c-9003-7585cd269919",
-            "labels": [
-              ""
-            ],
-            "source": {
-              "x": 450,
-              "y": 110
-            },
-            "target": {
-              "cell": "b216d5f2-f9ac-44cc-b014-dd67f37614e7"
-            },
-            "vertices": [
-              {
-                "x": 530,
-                "y": 60
-              }
-            ]
-          },
-          {
-            "shape": "flow",
-            "attrs": {
-              "line": {
-                "stroke": "#333333",
-                "strokeWidth": 1,
-                "targetMarker": {
-                  "name": "classic"
-                },
-                "strokeDasharray": null
-              }
-            },
-            "width": 200,
-            "height": 100,
-            "zIndex": 10,
-            "connector": "smooth",
-            "data": {
-              "type": "tm.Flow",
               "name": "Hanterar",
               "description": "",
               "outOfScope": false,
@@ -603,6 +557,51 @@
               "x": 450,
               "y": 240
             }
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "strokeWidth": 1,
+                "targetMarker": {
+                  "name": "classic"
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Flow",
+              "name": "",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "protocol": "",
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "hasOpenThreats": false,
+              "threats": []
+            },
+            "id": "4ae6aa56-d4a5-406c-9003-7585cd269919",
+            "labels": [
+              ""
+            ],
+            "source": {
+              "cell": "0227b179-35c2-42f9-ac39-3f0f2cc4ac58"
+            },
+            "target": {
+              "cell": "b216d5f2-f9ac-44cc-b014-dd67f37614e7"
+            },
+            "vertices": [
+              {
+                "x": 530,
+                "y": 60
+              }
+            ]
           },
           {
             "position": {
@@ -1001,8 +1000,8 @@
           },
           {
             "position": {
-              "x": 161.5,
-              "y": 190
+              "x": 263.75,
+              "y": 150
             },
             "size": {
               "width": 112.5,
@@ -1013,7 +1012,7 @@
             "id": "d6bf02ce-72ca-4f3a-921f-7d786353e89b",
             "data": {
               "type": "tm.Text",
-              "name": "Normalvärden importeras till Sensordatabasen från extern tjänst",
+              "name": "Normalvärden importeras från extern tjänst till Sensordatabasen",
               "hasOpenThreats": false
             }
           }
