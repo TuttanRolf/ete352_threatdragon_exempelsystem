@@ -127,8 +127,8 @@
                 "text": "Extern tjänst\n(Sthlm Exergi)"
               },
               "body": {
-                "stroke": "#333333",
-                "strokeWidth": 1,
+                "stroke": "red",
+                "strokeWidth": 3,
                 "strokeDasharray": "5 2"
               }
             },
@@ -152,9 +152,19 @@
                   "description": "",
                   "mitigation": "",
                   "modelType": ""
+                },
+                {
+                  "id": "d8f3f9b3-2507-468e-bb83-19089978488d",
+                  "status": "Open",
+                  "severity": "Medium",
+                  "title": "cxzcvzxc",
+                  "type": "Denial of service",
+                  "description": "zcxvxc",
+                  "mitigation": "cxvxcv",
+                  "modelType": "STRIDE"
                 }
               ],
-              "hasOpenThreats": false,
+              "hasOpenThreats": true,
               "providesAuthentication": false
             }
           },
@@ -325,7 +335,7 @@
             "connector": "smooth",
             "data": {
               "type": "tm.Flow",
-              "name": "Hanterar",
+              "name": "Administrerar, uppdaterar",
               "description": "",
               "outOfScope": false,
               "reasonOutOfScope": "",
@@ -960,8 +970,8 @@
                 "text": "Extern \nSystemintegratör"
               },
               "body": {
-                "stroke": "#333333",
-                "strokeWidth": 1,
+                "stroke": "red",
+                "strokeWidth": 3,
                 "strokeDasharray": null
               }
             },
@@ -978,7 +988,7 @@
               "threats": [
                 {
                   "id": "5d6e5aae-eccf-4f03-9bfd-473ba1e17da2",
-                  "status": "NotApplicable",
+                  "status": "Open",
                   "severity": "Medium",
                   "title": "xzxc",
                   "type": "Repudiation",
@@ -987,7 +997,7 @@
                   "modelType": "STRIDE"
                 }
               ],
-              "hasOpenThreats": false,
+              "hasOpenThreats": true,
               "providesAuthentication": false
             }
           },
