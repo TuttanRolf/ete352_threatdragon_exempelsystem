@@ -990,12 +990,12 @@
                 {
                   "id": "5d6e5aae-eccf-4f03-9bfd-473ba1e17da2",
                   "status": "Open",
-                  "severity": "Medium",
-                  "title": "xzxc",
-                  "type": "Repudiation",
-                  "description": "zxcxcxc",
-                  "mitigation": "zxczx",
-                  "modelType": "STRIDE"
+                  "severity": "High",
+                  "title": "Hot: Behörig person lämnar ut säkerhetsklassad information till obehöriga",
+                  "type": "Confidentiality",
+                  "description": "Trots korrekt hanterad autentisering och privilegiehantering så föreligger ett hot att en behörighet person lämnar ut säkerhetsklassad information till obehörig person/organisation",
+                  "mitigation": "Skyddsåtgärder: (1) Årlig Supply Management Risk Assessment inkl Säkerhetsprövningar av den externa personalen som har eskalerade behörigheter, (2) Egna processer och arbetssätt för att skydda informationen revideras årligen vid intern och externa audits (NIST/Protect). (3) Säkerhetssystem införs; central loggning där anomalier och events i kommunikationen mellan extern systemintegration och sjukhusnätverken identifieras och följs upp hos den externa partnern. Endpoint Detectionsystem säkerhets hos underleverantören.",
+                  "modelType": "CIA"
                 }
               ],
               "hasOpenThreats": true,
