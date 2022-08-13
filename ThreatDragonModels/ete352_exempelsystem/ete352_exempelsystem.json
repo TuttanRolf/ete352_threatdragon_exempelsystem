@@ -1031,7 +1031,7 @@
           },
           {
             "position": {
-              "x": 476.5,
+              "x": 555.5,
               "y": -15
             },
             "size": {
@@ -1108,11 +1108,11 @@
               "height": 60
             },
             "shape": "td-text-block",
-            "id": "c60ad32a-03a4-4e44-be8a-db6e8ed8d6d0",
             "zIndex": 41,
+            "id": "c60ad32a-03a4-4e44-be8a-db6e8ed8d6d0",
             "data": {
               "type": "tm.Text",
-              "name": "KONTOSNÄTET (Innanför SLL-NET)",
+              "name": "KONTORSNÄTET (innanför SLL-NET)",
               "hasOpenThreats": false
             }
           }
