@@ -62,8 +62,8 @@
               "y": 400
             },
             "size": {
-              "width": 160,
-              "height": 80
+              "width": 120,
+              "height": 60
             },
             "attrs": {
               "text": {
@@ -852,8 +852,8 @@
               "y": 400
             },
             "size": {
-              "width": 160,
-              "height": 80
+              "width": 120,
+              "height": 60
             },
             "attrs": {
               "text": {
