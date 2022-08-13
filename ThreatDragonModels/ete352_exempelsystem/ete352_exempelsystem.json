@@ -48,7 +48,18 @@
               "isTrustBoundary": false,
               "outOfScope": false,
               "reasonOutOfScope": "",
-              "threats": [],
+              "threats": [
+                {
+                  "id": "7fb7e3b0-284f-49a7-90d7-ebd10f306f73",
+                  "status": "",
+                  "severity": "",
+                  "title": "Hot 1 Sensordatasystem:",
+                  "type": "",
+                  "description": "",
+                  "mitigation": "",
+                  "modelType": ""
+                }
+              ],
               "hasOpenThreats": false,
               "isALog": true,
               "storesCredentials": true,
