@@ -58,6 +58,16 @@
                   "description": "",
                   "mitigation": "",
                   "modelType": ""
+                },
+                {
+                  "id": "752b4bec-8b19-4319-902b-b7eea5eb3ad4",
+                  "status": "",
+                  "severity": "",
+                  "title": "Hot 2: Sensordatabas -",
+                  "type": "",
+                  "description": "",
+                  "mitigation": "",
+                  "modelType": ""
                 }
               ],
               "hasOpenThreats": false,
