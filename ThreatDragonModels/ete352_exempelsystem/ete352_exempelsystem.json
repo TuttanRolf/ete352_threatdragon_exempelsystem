@@ -277,7 +277,12 @@
             "target": {
               "cell": "8884e768-7353-4e0a-ac85-8779e5c912ae"
             },
-            "vertices": []
+            "vertices": [
+              {
+                "x": 680,
+                "y": 305
+              }
+            ]
           },
           {
             "shape": "flow",
@@ -611,7 +616,7 @@
             "zIndex": 14,
             "id": "8884e768-7353-4e0a-ac85-8779e5c912ae",
             "data": {
-              "name": "System: Hanterar ritningar/driftskort",
+              "name": "System: Hanterar\nritningar/driftskort",
               "description": "Applikationen hanterar ritningar över sjukhusens byggnad, lokaler och mediainstallationer samt länkar till driftsinstruktionerna för resp mediainstallation.",
               "type": "tm.Process",
               "isTrustBoundary": false,
