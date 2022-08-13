@@ -1057,7 +1057,7 @@
             "id": "2885f8db-ded5-4729-9b56-05a18203a883",
             "data": {
               "type": "tm.Text",
-              "name": "",
+              "name": "x",
               "hasOpenThreats": false
             }
           },
@@ -1214,8 +1214,8 @@
               }
             },
             "shape": "td-text-block",
-            "id": "5207ea0a-bc4e-4d86-bbbe-8129d9520f94",
             "zIndex": 42,
+            "id": "5207ea0a-bc4e-4d86-bbbe-8129d9520f94",
             "data": {
               "type": "tm.Text",
               "name": "Hanterar",
