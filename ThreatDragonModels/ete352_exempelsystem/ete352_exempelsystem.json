@@ -925,7 +925,7 @@
             "zIndex": 25,
             "id": "112d1fee-d583-443c-bc7e-5aaeb03635b9",
             "data": {
-              "name": "Anst: Driftscontrollers",
+              "name": "Anställd (Användare):\nDriftscontrollers ",
               "description": "Driftscontroller i bolaget övervakar de externa driftsentreprenörerna och säkerställer leverans avseende driftssäkerhet",
               "type": "tm.Actor",
               "isTrustBoundary": false,
