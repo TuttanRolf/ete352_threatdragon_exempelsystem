@@ -944,13 +944,13 @@
               "threats": [
                 {
                   "id": "4d1fb728-3e73-459d-99c7-df7fdf973642",
-                  "status": "NotApplicable",
-                  "severity": "",
-                  "title": "xzcxc",
-                  "type": "Spoofing",
-                  "description": "zxczxcz",
-                  "mitigation": "",
-                  "modelType": "STRIDE"
+                  "status": "Open",
+                  "severity": "High",
+                  "title": "Hot: Bristande kunmskap, förståelse och erfarenhet hotar Riktighet och Konfidentialitet",
+                  "type": "Confidentiality",
+                  "description": "Om de funktioner i bolaget med tillgång till säkerhetsklassad information (här: Driftscontroller och IT-förvaltningsledare) inte har rätt kunskap och kompetens (dvs oavsiktliga hot) riskeras informationssäkerheten (Konfidentialitet och Riktighet).",
+                  "mitigation": "Skyddsåtgärder: NIST/Protect (1) Awareness and Training för all behörig personal gällande policies, arbetssätt och ansvar.",
+                  "modelType": "CIA"
                 },
                 {
                   "id": "03b4041e-ad29-4570-8234-bafbca587f23",
