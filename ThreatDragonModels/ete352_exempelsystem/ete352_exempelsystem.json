@@ -93,8 +93,8 @@
                 "text": "IT Förvaltningsledare"
               },
               "body": {
-                "stroke": "#333333",
-                "strokeWidth": 1,
+                "stroke": "red",
+                "strokeWidth": 3,
                 "strokeDasharray": null
               }
             },
@@ -108,8 +108,19 @@
               "isTrustBoundary": false,
               "outOfScope": false,
               "reasonOutOfScope": "",
-              "threats": [],
-              "hasOpenThreats": false,
+              "threats": [
+                {
+                  "id": "f0d66529-01a5-4632-aef4-92f1997176aa",
+                  "status": "Open",
+                  "severity": "High",
+                  "title": "zxczxcz",
+                  "type": "Denial of service",
+                  "description": "zxczx",
+                  "mitigation": "zxczx",
+                  "modelType": "STRIDE"
+                }
+              ],
+              "hasOpenThreats": true,
               "providesAuthentication": false
             }
           },
