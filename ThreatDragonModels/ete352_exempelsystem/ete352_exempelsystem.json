@@ -81,7 +81,7 @@
           },
           {
             "position": {
-              "x": 770,
+              "x": 778,
               "y": 400
             },
             "size": {
@@ -321,8 +321,7 @@
             "shape": "flow",
             "attrs": {
               "line": {
-                "stroke": "#333333",
-                "strokeWidth": 1,
+                "stroke": "red",
                 "targetMarker": {
                   "name": "classic"
                 },
@@ -342,8 +341,19 @@
               "protocol": "",
               "isEncrypted": false,
               "isPublicNetwork": false,
-              "hasOpenThreats": false,
-              "threats": [],
+              "hasOpenThreats": true,
+              "threats": [
+                {
+                  "id": "2bdfc0b6-d702-43a8-863a-3bf65871f589",
+                  "status": "Open",
+                  "severity": "Medium",
+                  "title": "xcczc",
+                  "type": "Information disclosure",
+                  "description": "zxczxc",
+                  "mitigation": "zxczcx",
+                  "modelType": "STRIDE"
+                }
+              ],
               "isTrustBoundary": false
             },
             "id": "37c88b3e-7c41-4edd-a9f1-a4884d812803",
