@@ -1003,7 +1003,7 @@
             },
             "attrs": {
               "text": {
-                "text": "Hanterar"
+                "text": "Admin"
               }
             },
             "shape": "td-text-block",
@@ -1040,12 +1040,12 @@
           },
           {
             "position": {
-              "x": -160,
-              "y": 370
+              "x": 112.5,
+              "y": 300
             },
             "size": {
-              "width": 112.5,
-              "height": 60
+              "width": 80,
+              "height": 42.666666666666664
             },
             "attrs": {
               "text": {
@@ -1057,7 +1057,7 @@
             "id": "2885f8db-ded5-4729-9b56-05a18203a883",
             "data": {
               "type": "tm.Text",
-              "name": "Autentiserar \n(Region Sthlms tjänst)",
+              "name": "",
               "hasOpenThreats": false
             }
           },
