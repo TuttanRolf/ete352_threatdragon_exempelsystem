@@ -638,7 +638,7 @@
             },
             "attrs": {
               "text": {
-                "text": "Installationsdatabas"
+                "text": "Installations-\ndatabas"
               },
               "body": {
                 "stroke": "#333333",
@@ -845,7 +845,7 @@
             "zIndex": 36,
             "data": {
               "type": "tm.Text",
-              "name": "Arbitrary Text",
+              "name": "Region Sthlms AD-kontohantering i Azure autentiserar",
               "hasOpenThreats": false
             }
           }
