@@ -201,54 +201,6 @@
             "connector": "smooth",
             "data": {
               "type": "tm.Flow",
-              "name": "flow 11",
-              "description": "",
-              "outOfScope": false,
-              "reasonOutOfScope": "",
-              "protocol": "",
-              "isEncrypted": false,
-              "isPublicNetwork": false,
-              "hasOpenThreats": false,
-              "threats": [],
-              "isTrustBoundary": false
-            },
-            "id": "89bbabaa-080d-4909-9a26-29ee394ac2d9",
-            "labels": [
-              {
-                "position": 0.5,
-                "attrs": {
-                  "label": {
-                    "text": "flow 11"
-                  }
-                }
-              }
-            ],
-            "source": {
-              "cell": "8884e768-7353-4e0a-ac85-8779e5c912ae"
-            },
-            "target": {
-              "cell": "134e6666-bb56-4a4e-bbc9-13061ab81727"
-            },
-            "vertices": []
-          },
-          {
-            "shape": "flow",
-            "attrs": {
-              "line": {
-                "stroke": "#333333",
-                "strokeWidth": 1,
-                "targetMarker": {
-                  "name": "classic"
-                },
-                "strokeDasharray": null
-              }
-            },
-            "width": 200,
-            "height": 100,
-            "zIndex": 10,
-            "connector": "smooth",
-            "data": {
-              "type": "tm.Flow",
               "name": "Synkroniserar",
               "description": "",
               "outOfScope": false,
