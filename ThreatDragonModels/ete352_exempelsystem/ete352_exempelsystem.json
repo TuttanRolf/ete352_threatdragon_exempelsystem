@@ -816,8 +816,8 @@
                 "text": "Installations-\ndatabas"
               },
               "body": {
-                "stroke": "#333333",
-                "strokeWidth": 1,
+                "stroke": "red",
+                "strokeWidth": 3,
                 "strokeDasharray": null
               }
             },
@@ -831,8 +831,19 @@
               "isTrustBoundary": false,
               "outOfScope": false,
               "reasonOutOfScope": "",
-              "threats": [],
-              "hasOpenThreats": false
+              "threats": [
+                {
+                  "id": "b0f41c3f-8870-448f-9a33-35c78e120a55",
+                  "status": "Open",
+                  "severity": "High",
+                  "title": "zxcxc",
+                  "type": "Elevation of privilege",
+                  "description": "zxc",
+                  "mitigation": "zxc",
+                  "modelType": "STRIDE"
+                }
+              ],
+              "hasOpenThreats": true
             }
           },
           {
@@ -970,19 +981,9 @@
                   "status": "NotApplicable",
                   "severity": "Medium",
                   "title": "xzxc",
-                  "type": "Identifiability",
-                  "description": "zxcxcxc",
-                  "mitigation": "",
-                  "modelType": "STRIDE"
-                },
-                {
-                  "id": "1b04d6a2-b534-4994-82aa-67e508a9ac16",
-                  "status": "NotApplicable",
-                  "severity": "Medium",
-                  "title": "xzxc",
                   "type": "Repudiation",
-                  "description": "zxcxc",
-                  "mitigation": "",
+                  "description": "zxcxcxc",
+                  "mitigation": "zxczx",
                   "modelType": "STRIDE"
                 }
               ],
