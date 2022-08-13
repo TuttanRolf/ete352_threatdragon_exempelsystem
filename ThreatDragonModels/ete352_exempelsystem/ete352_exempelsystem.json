@@ -30,11 +30,13 @@
                 "text": "Sensordatabas"
               },
               "topLine": {
-                "strokeWidth": 1,
+                "stroke": "red",
+                "strokeWidth": 3,
                 "strokeDasharray": null
               },
               "bottomLine": {
-                "strokeWidth": 1,
+                "stroke": "red",
+                "strokeWidth": 3,
                 "strokeDasharray": null
               }
             },
@@ -51,13 +53,13 @@
               "threats": [
                 {
                   "id": "7fb7e3b0-284f-49a7-90d7-ebd10f306f73",
-                  "status": "",
-                  "severity": "",
-                  "title": "Hot 1 Sensordatasystem:",
-                  "type": "",
-                  "description": "",
+                  "status": "Open",
+                  "severity": "Medium",
+                  "title": "Hot 1 - Sensordatabas:",
+                  "type": "Confidentiality",
+                  "description": "xxx",
                   "mitigation": "",
-                  "modelType": ""
+                  "modelType": "CIA"
                 },
                 {
                   "id": "752b4bec-8b19-4319-902b-b7eea5eb3ad4",
@@ -70,7 +72,7 @@
                   "modelType": ""
                 }
               ],
-              "hasOpenThreats": false,
+              "hasOpenThreats": true,
               "isALog": true,
               "storesCredentials": true,
               "isEncrypted": false,
