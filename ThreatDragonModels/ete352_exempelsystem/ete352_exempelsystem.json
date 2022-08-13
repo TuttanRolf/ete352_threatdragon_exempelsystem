@@ -759,7 +759,7 @@
             },
             "attrs": {
               "text": {
-                "text": "Extern driftsentreprenör"
+                "text": "Extern \ndriftsentreprenör"
               },
               "body": {
                 "stroke": "#333333",
@@ -771,7 +771,7 @@
             "zIndex": 24,
             "id": "fd1a81db-67dc-453a-8081-8cd529680112",
             "data": {
-              "name": "Extern driftsentreprenör",
+              "name": "Extern \ndriftsentreprenör",
               "description": "Externa driftsentreprenörer som anlitas för sjukhusdriften har åtkomst till driftskort och driftsinformation via en app för mobiler och paddor",
               "type": "tm.Actor",
               "isTrustBoundary": false,
@@ -827,7 +827,7 @@
             },
             "attrs": {
               "text": {
-                "text": "Extern Systemintegratör"
+                "text": "Extern \nSystemintegratör"
               },
               "body": {
                 "stroke": "#333333",
@@ -839,7 +839,7 @@
             "zIndex": 26,
             "id": "4acd5c7e-70b1-4dc0-aa03-375286a5b2cf",
             "data": {
-              "name": "Extern Systemintegratör",
+              "name": "Extern \nSystemintegratör",
               "description": "Externa driftsentreprenörer som anlitas för sjukhusdriften har åtkomst till driftskort och driftsinformation via en app för mobiler och paddor",
               "type": "tm.Actor",
               "isTrustBoundary": false,
