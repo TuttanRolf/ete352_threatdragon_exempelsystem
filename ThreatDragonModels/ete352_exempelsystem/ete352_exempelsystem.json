@@ -535,44 +535,6 @@
             }
           },
           {
-            "shape": "trust-broundary-curve",
-            "attrs": {
-              "line": {
-                "targetMarker": "",
-                "sourceMarker": ""
-              }
-            },
-            "width": 200,
-            "height": 100,
-            "zIndex": 10,
-            "connector": "smooth",
-            "labels": [
-              {
-                "attrs": {
-                  "text": {
-                    "text": ""
-                  }
-                }
-              }
-            ],
-            "data": {
-              "type": "tm.Boundary",
-              "name": "",
-              "description": "",
-              "isTrustBoundary": true,
-              "hasOpenThreats": false
-            },
-            "id": "af735658-a73a-4286-8a58-bf0b20d4b39a",
-            "source": {
-              "x": 110,
-              "y": 230
-            },
-            "target": {
-              "x": 1160,
-              "y": 220
-            }
-          },
-          {
             "position": {
               "x": 698,
               "y": 200
@@ -817,7 +779,7 @@
             },
             "attrs": {
               "text": {
-                "text": "Autentisering, åtkomst/kopplingar till sjukhusnäten och mediasystemen"
+                "text": "Autentisering, \nåtkomst/kopplingar \ntill sjukhusnäten \noch mediasystemen"
               }
             },
             "shape": "td-text-block",
