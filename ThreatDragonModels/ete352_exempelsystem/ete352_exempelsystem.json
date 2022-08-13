@@ -932,7 +932,28 @@
               "isTrustBoundary": false,
               "outOfScope": false,
               "reasonOutOfScope": "",
-              "threats": [],
+              "threats": [
+                {
+                  "id": "5d6e5aae-eccf-4f03-9bfd-473ba1e17da2",
+                  "status": "NotApplicable",
+                  "severity": "Medium",
+                  "title": "xzxc",
+                  "type": "Identifiability",
+                  "description": "zxcxcxc",
+                  "mitigation": "",
+                  "modelType": "STRIDE"
+                },
+                {
+                  "id": "1b04d6a2-b534-4994-82aa-67e508a9ac16",
+                  "status": "NotApplicable",
+                  "severity": "Medium",
+                  "title": "xzxc",
+                  "type": "Repudiation",
+                  "description": "zxcxc",
+                  "mitigation": "",
+                  "modelType": "STRIDE"
+                }
+              ],
               "hasOpenThreats": false,
               "providesAuthentication": false
             }
