@@ -1031,8 +1031,8 @@
           },
           {
             "position": {
-              "x": 127.5,
-              "y": 190
+              "x": 490,
+              "y": -15
             },
             "size": {
               "width": 112.5,
@@ -1040,7 +1040,7 @@
             },
             "attrs": {
               "text": {
-                "text": "Hanterar"
+                "text": "SJUKHUSNÄTET"
               }
             },
             "shape": "td-text-block",
@@ -1048,14 +1048,14 @@
             "id": "32e09fe8-86ed-4d9d-b097-3bebcab2b771",
             "data": {
               "type": "tm.Text",
-              "name": "SJUKHUSNÄTET",
+              "name": "SJUKHUSNÄTET, INOM REGIONEN",
               "hasOpenThreats": false
             }
           },
           {
             "position": {
-              "x": 49,
-              "y": 370
+              "x": 240,
+              "y": -15
             },
             "size": {
               "width": 112.5,
