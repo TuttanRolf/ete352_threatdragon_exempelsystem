@@ -90,7 +90,7 @@
             },
             "attrs": {
               "text": {
-                "text": "IT Förvaltningsledare"
+                "text": "Anställd (Admin):\nIT Förvaltningsledare"
               },
               "body": {
                 "stroke": "red",
@@ -904,7 +904,7 @@
           },
           {
             "position": {
-              "x": 490,
+              "x": 509,
               "y": 400
             },
             "size": {
@@ -1220,6 +1220,13 @@
               "type": "tm.Text",
               "name": "Hanterar",
               "hasOpenThreats": false
+            },
+            "tools": {
+              "items": [
+                "boundary",
+                "button-remove"
+              ],
+              "name": null
             }
           }
         ],
