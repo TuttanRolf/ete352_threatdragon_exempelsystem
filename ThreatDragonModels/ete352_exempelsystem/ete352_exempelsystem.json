@@ -1100,12 +1100,17 @@
           },
           {
             "position": {
-              "x": 82,
-              "y": 360
+              "x": 422,
+              "y": 260
             },
             "size": {
               "width": 112.5,
               "height": 60
+            },
+            "attrs": {
+              "text": {
+                "text": "KONTORSNÄTET (innanför SLL-NET)"
+              }
             },
             "shape": "td-text-block",
             "zIndex": 41,
