@@ -639,7 +639,7 @@
             "zIndex": 12,
             "id": "8438e351-6a23-417a-b64d-7af55bf10670",
             "data": {
-              "name": "Molntjänst",
+              "name": "Moln-\ntjänst",
               "description": "Autentisering, Access control av externa enheter",
               "type": "tm.Process",
               "isTrustBoundary": false,
@@ -930,7 +930,7 @@
             },
             "attrs": {
               "text": {
-                "text": "Autentiserar (Region Sthlms tjänst)"
+                "text": "Autentiserar \n(Region Sthlms tjänst)"
               }
             },
             "shape": "td-text-block",
