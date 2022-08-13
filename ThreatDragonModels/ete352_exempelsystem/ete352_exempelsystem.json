@@ -886,9 +886,32 @@
               "width": 112.5,
               "height": 60
             },
+            "attrs": {
+              "text": {
+                "text": "Hanterar"
+              }
+            },
             "shape": "td-text-block",
             "id": "32e09fe8-86ed-4d9d-b097-3bebcab2b771",
             "zIndex": 38,
+            "data": {
+              "type": "tm.Text",
+              "name": "Hanterar",
+              "hasOpenThreats": false
+            }
+          },
+          {
+            "position": {
+              "x": 49,
+              "y": 370
+            },
+            "size": {
+              "width": 112.5,
+              "height": 60
+            },
+            "shape": "td-text-block",
+            "id": "577a2713-ef05-415d-af02-b9c3660daf60",
+            "zIndex": 39,
             "data": {
               "type": "tm.Text",
               "name": "Hanterar",
