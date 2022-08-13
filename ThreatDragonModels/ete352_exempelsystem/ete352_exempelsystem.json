@@ -155,24 +155,14 @@
               "reasonOutOfScope": "Externt",
               "threats": [
                 {
-                  "id": "4f60a731-5003-4f01-b306-a6a651f48f96",
-                  "status": "",
-                  "severity": "",
-                  "title": "",
-                  "type": "",
-                  "description": "",
-                  "mitigation": "",
-                  "modelType": ""
-                },
-                {
                   "id": "d8f3f9b3-2507-468e-bb83-19089978488d",
                   "status": "Open",
                   "severity": "Medium",
-                  "title": "cxzcvzxc",
-                  "type": "Denial of service",
-                  "description": "zcxvxc",
-                  "mitigation": "cxvxcv",
-                  "modelType": "STRIDE"
+                  "title": "Hot: Tillförlitligheten i leveransen av normalvärden för energiförbrukning",
+                  "type": "Integrity",
+                  "description": "Ett hot mot riktigheten i informationen i Sensordatasystemen är om importerade normalvärden gällande energiförbrukning för perioden inte är riktiga. Om data är felaktiv föreligger ”Tampering”-hot, dvs riktigheten i viktiga nyckeltal ifrågasätts. Om den externa leverantören tar tillbaka sina löften om kvalitet i data föreligger dock hot av annan karaktär; repudiation, vilket skapar ännu större problem och potentiell skada för bolaget.",
+                  "mitigation": "•\tSkyddsåtgärder: (1) Gör en Supply Management Risk Assessment enligt NIST/Identify",
+                  "modelType": "CIA"
                 }
               ],
               "hasOpenThreats": true,
