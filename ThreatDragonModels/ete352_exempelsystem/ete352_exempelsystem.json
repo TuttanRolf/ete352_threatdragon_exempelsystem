@@ -1040,7 +1040,7 @@
             },
             "attrs": {
               "text": {
-                "text": "SJUKHUSNÄTET"
+                "text": "SJUKHUSNÄTET (INNANFÖR SLL-NET)"
               }
             },
             "shape": "td-text-block",
@@ -1095,6 +1095,24 @@
             "data": {
               "type": "tm.Text",
               "name": "Normalvärden importeras från extern tjänst till Sensordatabasen",
+              "hasOpenThreats": false
+            }
+          },
+          {
+            "position": {
+              "x": 82,
+              "y": 360
+            },
+            "size": {
+              "width": 112.5,
+              "height": 60
+            },
+            "shape": "td-text-block",
+            "id": "c60ad32a-03a4-4e44-be8a-db6e8ed8d6d0",
+            "zIndex": 41,
+            "data": {
+              "type": "tm.Text",
+              "name": "KONTOSNÄTET (Innanför SLL-NET)",
               "hasOpenThreats": false
             }
           }
