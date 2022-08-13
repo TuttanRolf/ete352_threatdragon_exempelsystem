@@ -354,43 +354,6 @@
               "hasOpenThreats": false,
               "threats": []
             },
-            "id": "cd84f68d-fae6-4277-a963-b5ec8369c7bb",
-            "source": {
-              "cell": "8884e768-7353-4e0a-ac85-8779e5c912ae"
-            },
-            "target": {
-              "x": 532,
-              "y": 440
-            }
-          },
-          {
-            "shape": "flow",
-            "attrs": {
-              "line": {
-                "stroke": "#333333",
-                "strokeWidth": 1,
-                "targetMarker": {
-                  "name": "classic"
-                },
-                "strokeDasharray": null
-              }
-            },
-            "width": 200,
-            "height": 100,
-            "zIndex": 10,
-            "connector": "smooth",
-            "data": {
-              "type": "tm.Flow",
-              "name": "",
-              "description": "",
-              "outOfScope": false,
-              "reasonOutOfScope": "",
-              "protocol": "",
-              "isEncrypted": false,
-              "isPublicNetwork": false,
-              "hasOpenThreats": false,
-              "threats": []
-            },
             "id": "dd3161ef-3171-4296-ac78-b567dc0aac07",
             "source": {
               "x": 890,
@@ -677,6 +640,81 @@
             }
           },
           {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "strokeWidth": 1,
+                "targetMarker": {
+                  "name": "classic"
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Flow",
+              "name": "",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "protocol": "",
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "hasOpenThreats": false,
+              "threats": []
+            },
+            "id": "cb88a016-3b37-46b9-b6cf-4c419a087767",
+            "source": {
+              "x": 800,
+              "y": 390
+            },
+            "target": {
+              "x": 720,
+              "y": 360
+            },
+            "vertices": []
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "strokeWidth": 1,
+                "targetMarker": {
+                  "name": "classic"
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Flow",
+              "name": "",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "protocol": "",
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "hasOpenThreats": false,
+              "threats": []
+            },
+            "id": "68eeb5f3-c109-42b0-b9aa-fef5e17e7d68",
+            "source": {
+              "cell": "112d1fee-d583-443c-bc7e-5aaeb03635b9"
+            },
+            "target": {
+              "cell": "8884e768-7353-4e0a-ac85-8779e5c912ae"
+            }
+          },
+          {
             "position": {
               "x": 678,
               "y": 178
@@ -956,8 +994,8 @@
           },
           {
             "position": {
-              "x": 490,
-              "y": 360
+              "x": 728,
+              "y": 340
             },
             "size": {
               "width": 112.5,
@@ -973,7 +1011,7 @@
             "id": "3827071a-e03c-45d5-801f-cc2cc347dce0",
             "data": {
               "type": "tm.Text",
-              "name": "Hanterar",
+              "name": "Admin",
               "hasOpenThreats": false
             }
           },
@@ -1158,6 +1196,29 @@
             "data": {
               "type": "tm.Text",
               "name": "KONTORSNÄTET (innanför SLL-NET)",
+              "hasOpenThreats": false
+            }
+          },
+          {
+            "position": {
+              "x": 494,
+              "y": 340
+            },
+            "size": {
+              "width": 112.5,
+              "height": 60
+            },
+            "attrs": {
+              "text": {
+                "text": "Hanterar"
+              }
+            },
+            "shape": "td-text-block",
+            "id": "5207ea0a-bc4e-4d86-bbbe-8129d9520f94",
+            "zIndex": 42,
+            "data": {
+              "type": "tm.Text",
+              "name": "Hanterar",
               "hasOpenThreats": false
             }
           }
