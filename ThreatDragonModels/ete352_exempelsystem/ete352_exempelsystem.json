@@ -151,8 +151,8 @@
               "description": "",
               "type": "tm.Actor",
               "isTrustBoundary": false,
-              "outOfScope": true,
-              "reasonOutOfScope": "Externt",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
               "threats": [
                 {
                   "id": "d8f3f9b3-2507-468e-bb83-19089978488d",
