@@ -812,7 +812,7 @@
                   "id": "4e074bfe-7581-4024-a796-d6297d0a2a23",
                   "status": "Open",
                   "severity": "Medium",
-                  "title": "DDOS-attacker förhindrar åtkomst",
+                  "title": "Hot: DDOS-attacker förhindrar åtkomst till ritningar och driftskort/driftsinstruktioner",
                   "type": "Availability",
                   "description": "DDOS-attacker påverkar applikationen så att alla administrativa funktioner som behöver åtkomst till informationstillgångarna inte kan arbeta. ",
                   "mitigation": "Skyddsåtgärder är: (1) Uppdaterade och testade kontinuitetsplaner som gör att manuella rutiner han hanteras om/när systemets tjänster är otillgängliga. (2) Hög kännedom och träning på kontinuitetsplanerna, (3) backup och återläsning testas regelbundet så att snabb återställning ev kan ske i redundant miljö om problemet blir varaktigt",
