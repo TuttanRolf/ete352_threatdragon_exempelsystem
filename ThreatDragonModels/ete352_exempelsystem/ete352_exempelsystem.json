@@ -81,7 +81,7 @@
           },
           {
             "position": {
-              "x": 778,
+              "x": 770,
               "y": 400
             },
             "size": {
@@ -110,14 +110,14 @@
               "reasonOutOfScope": "",
               "threats": [
                 {
-                  "id": "f0d66529-01a5-4632-aef4-92f1997176aa",
+                  "id": "029ee1d2-d317-42d4-8a1a-0d2811883e7a",
                   "status": "Open",
                   "severity": "High",
-                  "title": "zxczxcz",
-                  "type": "Denial of service",
-                  "description": "zxczx",
-                  "mitigation": "zxczx",
-                  "modelType": "STRIDE"
+                  "title": "Hot: Bristande kunmskap, förståelse och erfarenhet hotar Riktighet och Konfidentialitet",
+                  "type": "Confidentiality",
+                  "description": "Om de funktioner i bolaget med tillgång till säkerhetsklassad information (här: Driftscontroller och IT-förvaltningsledare) inte har rätt kunskap och kompetens (dvs oavsiktliga hot) riskeras informationssäkerheten (Konfidentialitet och Riktighet).",
+                  "mitigation": "Skyddsåtgärder: NIST/Protect (1) Awareness and Training för all behörig personal gällande policies, arbetssätt och ansvar.",
+                  "modelType": "CIA"
                 }
               ],
               "hasOpenThreats": true,
@@ -168,54 +168,6 @@
               "hasOpenThreats": true,
               "providesAuthentication": false
             }
-          },
-          {
-            "shape": "flow",
-            "attrs": {
-              "line": {
-                "stroke": "#333333",
-                "strokeWidth": 1,
-                "targetMarker": {
-                  "name": "classic"
-                },
-                "strokeDasharray": null
-              }
-            },
-            "width": 200,
-            "height": 100,
-            "zIndex": 10,
-            "connector": "smooth",
-            "data": {
-              "type": "tm.Flow",
-              "name": "Hanterar",
-              "description": "",
-              "outOfScope": false,
-              "reasonOutOfScope": "",
-              "protocol": "",
-              "isEncrypted": false,
-              "isPublicNetwork": false,
-              "hasOpenThreats": false,
-              "threats": [],
-              "isTrustBoundary": false
-            },
-            "id": "bf86ca03-586c-45b1-9fe6-6a468d23c072",
-            "labels": [
-              {
-                "position": 0.5,
-                "attrs": {
-                  "label": {
-                    "text": "Hanterar"
-                  }
-                }
-              }
-            ],
-            "source": {
-              "cell": "2416816b-0715-46f0-9c2c-6af4ad269c36"
-            },
-            "target": {
-              "cell": "8884e768-7353-4e0a-ac85-8779e5c912ae"
-            },
-            "vertices": []
           },
           {
             "shape": "flow",
