@@ -54,7 +54,7 @@
                 {
                   "id": "7fb7e3b0-284f-49a7-90d7-ebd10f306f73",
                   "status": "Open",
-                  "severity": "Medium",
+                  "severity": "High",
                   "title": "Hot: Ständiga förbättringar baserat på analyser och incidentrapporteringar saknas/brister",
                   "type": "Non-compliance",
                   "description": "Hot föreligger om driftsmiljö och arkitektur för det cyberfysiska systemen inte är genomtänkt, väl strukturerat samt att IT-säkerheten utvecklas löpande",
@@ -64,7 +64,7 @@
                 {
                   "id": "752b4bec-8b19-4319-902b-b7eea5eb3ad4",
                   "status": "Open",
-                  "severity": "Medium",
+                  "severity": "High",
                   "title": "Hot: Löpande underhåll av systemet och driftsplattform brister",
                   "type": "Availability",
                   "description": "Om inte driftsplattformar och systemunderhåll (inkl rekommenderade system- och säkerhetsuppdateringar) sker enligt uppsatta och beslutade rutiner hotas alla tre dimensioner av Informationssäkerhet (CIA) samt att de cyberfysiska systemen också hotas om fientlig aktör lyckas med intrång, övertagande av kontroll och eskalering av privilegier.",
@@ -113,7 +113,7 @@
                   "id": "029ee1d2-d317-42d4-8a1a-0d2811883e7a",
                   "status": "Open",
                   "severity": "High",
-                  "title": "Hot: Bristande kunmskap, förståelse och erfarenhet hotar Riktighet och Konfidentialitet",
+                  "title": "Hot: Bristande kunskap, förståelse och erfarenhet hotar Riktighet och Konfidentialitet",
                   "type": "Confidentiality",
                   "description": "Om de funktioner i bolaget med tillgång till säkerhetsklassad information (här: Driftscontroller och IT-förvaltningsledare) inte har rätt kunskap och kompetens (dvs oavsiktliga hot) riskeras informationssäkerheten (Konfidentialitet och Riktighet).",
                   "mitigation": "Skyddsåtgärder: NIST/Protect (1) Awareness and Training för all behörig personal gällande policies, arbetssätt och ansvar.",
@@ -140,7 +140,7 @@
               "body": {
                 "stroke": "red",
                 "strokeWidth": 3,
-                "strokeDasharray": "5 2"
+                "strokeDasharray": null
               }
             },
             "shape": "actor",
