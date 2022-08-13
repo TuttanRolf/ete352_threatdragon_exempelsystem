@@ -1007,6 +1007,11 @@
               "width": 112.5,
               "height": 60
             },
+            "attrs": {
+              "text": {
+                "text": "Normalvärden importeras från extern tjänst till Sensordatabasen"
+              }
+            },
             "shape": "td-text-block",
             "zIndex": 40,
             "id": "d6bf02ce-72ca-4f3a-921f-7d786353e89b",
