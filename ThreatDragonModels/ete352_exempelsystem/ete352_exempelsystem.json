@@ -840,12 +840,35 @@
               "width": 112.5,
               "height": 60
             },
+            "attrs": {
+              "text": {
+                "text": "Länkar från Ritningshantering direkt till Sensordatabas"
+              }
+            },
             "shape": "td-text-block",
             "zIndex": 36,
             "id": "89edbf58-2acd-49ad-a34f-c508befbcbcf",
             "data": {
               "type": "tm.Text",
               "name": "Länkar från Ritningshantering direkt till Sensordatabas",
+              "hasOpenThreats": false
+            }
+          },
+          {
+            "position": {
+              "x": 68,
+              "y": 310
+            },
+            "size": {
+              "width": 112.5,
+              "height": 60
+            },
+            "shape": "td-text-block",
+            "id": "c3bc4a90-635d-410e-938b-2c7789b9a036",
+            "zIndex": 37,
+            "data": {
+              "type": "tm.Text",
+              "name": "Region Sthlms molntjänst (Azure): AD-kontohantering",
               "hasOpenThreats": false
             }
           }
