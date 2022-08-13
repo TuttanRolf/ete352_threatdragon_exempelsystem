@@ -604,6 +604,44 @@
             ]
           },
           {
+            "shape": "trust-broundary-curve",
+            "attrs": {
+              "line": {
+                "targetMarker": "",
+                "sourceMarker": ""
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "labels": [
+              {
+                "attrs": {
+                  "text": {
+                    "text": ""
+                  }
+                }
+              }
+            ],
+            "data": {
+              "type": "tm.Boundary",
+              "name": "",
+              "description": "",
+              "isTrustBoundary": true,
+              "hasOpenThreats": false
+            },
+            "id": "cb49a445-8872-47a3-aa15-350326f3f5d2",
+            "source": {
+              "x": 442,
+              "y": 26
+            },
+            "target": {
+              "x": 440,
+              "y": 470
+            }
+          },
+          {
             "position": {
               "x": 678,
               "y": 178
