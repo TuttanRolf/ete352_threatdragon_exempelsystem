@@ -830,6 +830,24 @@
               "name": "Autentiserar \n(Region Sthlms tjänst)",
               "hasOpenThreats": false
             }
+          },
+          {
+            "position": {
+              "x": 194,
+              "y": 228
+            },
+            "size": {
+              "width": 112.5,
+              "height": 60
+            },
+            "shape": "td-text-block",
+            "id": "89edbf58-2acd-49ad-a34f-c508befbcbcf",
+            "zIndex": 36,
+            "data": {
+              "type": "tm.Text",
+              "name": "Arbitrary Text",
+              "hasOpenThreats": false
+            }
           }
         ],
         "version": "2.0",
