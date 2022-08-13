@@ -81,7 +81,7 @@
           },
           {
             "position": {
-              "x": 765.3333333333333,
+              "x": 770,
               "y": 400
             },
             "size": {
@@ -849,8 +849,8 @@
                 "text": "Extern \ndriftsentreprenör"
               },
               "body": {
-                "stroke": "#333333",
-                "strokeWidth": 1,
+                "stroke": "red",
+                "strokeWidth": 3,
                 "strokeDasharray": null
               }
             },
@@ -864,8 +864,19 @@
               "isTrustBoundary": false,
               "outOfScope": false,
               "reasonOutOfScope": "",
-              "threats": [],
-              "hasOpenThreats": false,
+              "threats": [
+                {
+                  "id": "1873e6fb-7436-4abc-b5dd-ca85ece728c5",
+                  "status": "Open",
+                  "severity": "Medium",
+                  "title": "zxcxc",
+                  "type": "Tampering",
+                  "description": "zxczx",
+                  "mitigation": "zxczx",
+                  "modelType": "STRIDE"
+                }
+              ],
+              "hasOpenThreats": true,
               "providesAuthentication": false
             }
           },
@@ -883,8 +894,8 @@
                 "text": "Anst: Driftscontrollers"
               },
               "body": {
-                "stroke": "#333333",
-                "strokeWidth": 1,
+                "stroke": "red",
+                "strokeWidth": 3,
                 "strokeDasharray": null
               }
             },
@@ -898,8 +909,29 @@
               "isTrustBoundary": false,
               "outOfScope": false,
               "reasonOutOfScope": "",
-              "threats": [],
-              "hasOpenThreats": false,
+              "threats": [
+                {
+                  "id": "4d1fb728-3e73-459d-99c7-df7fdf973642",
+                  "status": "NotApplicable",
+                  "severity": "",
+                  "title": "xzcxc",
+                  "type": "Spoofing",
+                  "description": "zxczxcz",
+                  "mitigation": "",
+                  "modelType": "STRIDE"
+                },
+                {
+                  "id": "03b4041e-ad29-4570-8234-bafbca587f23",
+                  "status": "Open",
+                  "severity": "Medium",
+                  "title": "zxczxc",
+                  "type": "Tampering",
+                  "description": "zxcxz",
+                  "mitigation": "",
+                  "modelType": "STRIDE"
+                }
+              ],
+              "hasOpenThreats": true,
               "providesAuthentication": false
             }
           },
