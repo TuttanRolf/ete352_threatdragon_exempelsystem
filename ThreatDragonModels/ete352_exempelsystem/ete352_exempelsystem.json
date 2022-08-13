@@ -102,7 +102,7 @@
             "zIndex": 2,
             "id": "2416816b-0715-46f0-9c2c-6af4ad269c36",
             "data": {
-              "name": "IT Förvaltningsledare",
+              "name": "Anställd (Admin):\nIT Förvaltningsledare",
               "description": "IT-enheten hanterar webapplikationer som ger åtkomst till data/information rörande alla mediainstallationer på sjukhusen",
               "type": "tm.Actor",
               "isTrustBoundary": false,
@@ -913,7 +913,7 @@
             },
             "attrs": {
               "text": {
-                "text": "Anst: Driftscontrollers"
+                "text": "Anställd (Användare):\nDriftscontrollers "
               },
               "body": {
                 "stroke": "red",
