@@ -535,50 +535,6 @@
             }
           },
           {
-            "shape": "flow",
-            "attrs": {
-              "line": {
-                "stroke": "#333333",
-                "strokeWidth": 1,
-                "targetMarker": {
-                  "name": "classic"
-                },
-                "strokeDasharray": null
-              }
-            },
-            "width": 200,
-            "height": 100,
-            "zIndex": 10,
-            "connector": "smooth",
-            "data": {
-              "type": "tm.Flow",
-              "name": "",
-              "description": "",
-              "outOfScope": false,
-              "reasonOutOfScope": "",
-              "protocol": "",
-              "isEncrypted": false,
-              "isPublicNetwork": false,
-              "hasOpenThreats": false,
-              "threats": []
-            },
-            "id": "32e2c7a9-2c6b-46e4-87b1-2c840c0f95a2",
-            "source": {
-              "x": 860,
-              "y": 40
-            },
-            "target": {
-              "x": 760,
-              "y": -40
-            },
-            "vertices": [
-              {
-                "x": 810,
-                "y": 0
-              }
-            ]
-          },
-          {
             "shape": "trust-broundary-curve",
             "attrs": {
               "line": {
@@ -750,8 +706,8 @@
           },
           {
             "position": {
-              "x": 890,
-              "y": 118.00000000000003
+              "x": 925.3333333333333,
+              "y": 118
             },
             "size": {
               "width": 120,
