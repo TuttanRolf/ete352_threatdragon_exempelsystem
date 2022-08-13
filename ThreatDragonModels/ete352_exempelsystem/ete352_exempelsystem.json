@@ -1032,7 +1032,7 @@
           {
             "position": {
               "x": 490,
-              "y": -15
+              "y": -14.999999999999957
             },
             "size": {
               "width": 112.5,
@@ -1048,7 +1048,7 @@
             "id": "32e09fe8-86ed-4d9d-b097-3bebcab2b771",
             "data": {
               "type": "tm.Text",
-              "name": "SJUKHUSNÄTET, INOM REGIONEN (SLL-NET)",
+              "name": "SJUKHUSNÄTET (INNANFÖR SLL-NET)",
               "hasOpenThreats": false
             }
           },
@@ -1077,8 +1077,8 @@
           },
           {
             "position": {
-              "x": 263.75,
-              "y": 150
+              "x": 173.75,
+              "y": 35.00000000000004
             },
             "size": {
               "width": 112.5,
