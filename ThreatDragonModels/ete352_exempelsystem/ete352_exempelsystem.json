@@ -857,11 +857,11 @@
                   "id": "b0f41c3f-8870-448f-9a33-35c78e120a55",
                   "status": "Open",
                   "severity": "High",
-                  "title": "zxcxc",
-                  "type": "Elevation of privilege",
-                  "description": "zxc",
-                  "mitigation": "zxc",
-                  "modelType": "STRIDE"
+                  "title": "Hot: Installationsdatabasen hålls inte uppdaterad",
+                  "type": "Integrity",
+                  "description": "Om installationsdatabasen inte är synkroniserad med Sensordatanasen avseende vilken utrustning som är installerad och aktiv föreligger hot mot riktigheten i informationstillgångarna som hanteras i fastighetsförvaltning.",
+                  "mitigation": "Skyddsåtgärder: Se NIST/Protect: Säkerställ att processer och rutiner kopplat till upprätthållande av informationssäkerhet är i drift och fungerar",
+                  "modelType": "CIA"
                 }
               ],
               "hasOpenThreats": true
@@ -951,16 +951,6 @@
                   "description": "Om de funktioner i bolaget med tillgång till säkerhetsklassad information (här: Driftscontroller och IT-förvaltningsledare) inte har rätt kunskap och kompetens (dvs oavsiktliga hot) riskeras informationssäkerheten (Konfidentialitet och Riktighet).",
                   "mitigation": "Skyddsåtgärder: NIST/Protect (1) Awareness and Training för all behörig personal gällande policies, arbetssätt och ansvar.",
                   "modelType": "CIA"
-                },
-                {
-                  "id": "03b4041e-ad29-4570-8234-bafbca587f23",
-                  "status": "Open",
-                  "severity": "Medium",
-                  "title": "zxczxc",
-                  "type": "Tampering",
-                  "description": "zxcxz",
-                  "mitigation": "",
-                  "modelType": "STRIDE"
                 }
               ],
               "hasOpenThreats": true,
