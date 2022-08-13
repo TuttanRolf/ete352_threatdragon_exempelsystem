@@ -1220,13 +1220,6 @@
               "type": "tm.Text",
               "name": "Hanterar",
               "hasOpenThreats": false
-            },
-            "tools": {
-              "items": [
-                "boundary",
-                "button-remove"
-              ],
-              "name": null
             }
           }
         ],
