@@ -1048,7 +1048,7 @@
             "id": "32e09fe8-86ed-4d9d-b097-3bebcab2b771",
             "data": {
               "type": "tm.Text",
-              "name": "Hanterar",
+              "name": "SJUKHUSNÄTET",
               "hasOpenThreats": false
             }
           },
@@ -1063,7 +1063,7 @@
             },
             "attrs": {
               "text": {
-                "text": "Hanterar"
+                "text": "UTANFÖR SLL-NET"
               }
             },
             "shape": "td-text-block",
