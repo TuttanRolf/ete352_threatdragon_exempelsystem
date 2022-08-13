@@ -1049,7 +1049,7 @@
             },
             "attrs": {
               "text": {
-                "text": "Autentiserar \n(Region Sthlms tjänst)"
+                "text": "x"
               }
             },
             "shape": "td-text-block",
@@ -1155,7 +1155,7 @@
           },
           {
             "position": {
-              "x": 173.75,
+              "x": 240,
               "y": 35.00000000000004
             },
             "size": {
@@ -1164,7 +1164,7 @@
             },
             "attrs": {
               "text": {
-                "text": "Normalvärden importeras från extern tjänst till Sensordatabasen"
+                "text": "Normalvärden importeras \nfrån extern tjänst till Sensordatabasen"
               }
             },
             "shape": "td-text-block",
@@ -1172,7 +1172,7 @@
             "id": "d6bf02ce-72ca-4f3a-921f-7d786353e89b",
             "data": {
               "type": "tm.Text",
-              "name": "Normalvärden importeras från extern tjänst till Sensordatabasen",
+              "name": "Normalvärden importeras \nfrån extern tjänst till Sensordatabasen",
               "hasOpenThreats": false
             }
           },
