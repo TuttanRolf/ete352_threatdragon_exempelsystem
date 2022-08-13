@@ -55,7 +55,7 @@
                   "id": "7fb7e3b0-284f-49a7-90d7-ebd10f306f73",
                   "status": "Open",
                   "severity": "Medium",
-                  "title": "Ständiga förbättringar baserat på analyser och incidentrapporteringar saknas",
+                  "title": "Hot: Ständiga förbättringar baserat på analyser och incidentrapporteringar saknas/brister",
                   "type": "Non-compliance",
                   "description": "Hot föreligger om driftsmiljö och arkitektur för det cyberfysiska systemen inte är genomtänkt, väl strukturerat samt att IT-säkerheten utvecklas löpande",
                   "mitigation": "Skyddsåtgärder: Följ NIST/Respons rekommenderade åtgärder: Incidentrapportering, uppföljning och analyser av händelser som hotar säkerheten. Utnyttja erfarenheterna till ständiga förbättringar i arkitektur. Nya sårbarhetsanalyser och hotbedömningar ska göras regelbundet för att säkerställa uptodate med omvärldens föränderliga landskap inkl compliant med förändringar i lagar och förordningar.",
@@ -63,13 +63,13 @@
                 },
                 {
                   "id": "752b4bec-8b19-4319-902b-b7eea5eb3ad4",
-                  "status": "",
-                  "severity": "",
-                  "title": "Hot 2: Sensordatabas -",
-                  "type": "",
-                  "description": "",
-                  "mitigation": "",
-                  "modelType": ""
+                  "status": "Open",
+                  "severity": "Medium",
+                  "title": "Hot: Löpande underhåll av systemet och driftsplattform brister",
+                  "type": "Availability",
+                  "description": "Om inte driftsplattformar och systemunderhåll (inkl rekommenderade system- och säkerhetsuppdateringar) sker enligt uppsatta och beslutade rutiner hotas alla tre dimensioner av Informationssäkerhet (CIA) samt att de cyberfysiska systemen också hotas om fientlig aktör lyckas med intrång, övertagande av kontroll och eskalering av privilegier.",
+                  "mitigation": "Skyddsåtgärder: Detaljerade rutiner, ansvarsbeskrivningar för systemunderhåll ska vara dokumenterade och följas upp minst årligen vid interna och/eller externa audits.",
+                  "modelType": "CIA"
                 }
               ],
               "hasOpenThreats": true,
