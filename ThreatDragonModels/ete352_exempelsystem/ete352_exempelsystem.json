@@ -841,11 +841,11 @@
               "height": 60
             },
             "shape": "td-text-block",
-            "id": "89edbf58-2acd-49ad-a34f-c508befbcbcf",
             "zIndex": 36,
+            "id": "89edbf58-2acd-49ad-a34f-c508befbcbcf",
             "data": {
               "type": "tm.Text",
-              "name": "Region Sthlms AD-kontohantering i Azure autentiserar",
+              "name": "Länkar från Ritningshantering direkt till Sensordatabas",
               "hasOpenThreats": false
             }
           }
